@@ -1,9 +1,6 @@
-# AI-Data Symposium (short URL of this page: https://bit.ly/aiacs)
-2025 Spring（American Chemical Society, I&amp;EC)
-
-American Chemical Society （ACS） Spring 2025
-March 23-27， San Diego, CA & Virtual
-official link: https://www.acs.org/meetings/acs-meetings/spring.html
+# AI-Data Symposium
+2025 Spring（American Chemical Society, I&amp;EC) ACS [Spring]([url](https://www.acs.org/meetings/acs-meetings/spring.html)) 2025 March 23-27， San Diego, CA & Virtual
+(short URL of this page: https://bit.ly/aiacs)
 
 Confirmed Speakers for our AI-Data Symposium (ACS, I&EC):
 
