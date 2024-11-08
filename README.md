@@ -1,2 +1,2 @@
-# AI-Data Symposium（American Chemical Society, I&amp;EC)
-2025 Spring 
+# AI-Data Symposium
+2025 Spring（American Chemical Society, I&amp;EC)
