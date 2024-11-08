@@ -68,3 +68,6 @@ de la Fuente, Cesar		University of Pennsylvania
 Garikapati, Narahari Sastry		Indian Institute of Technology Hyderabad
 Nirmala, Nanguneri		Vindhya Data Science
 Mood, Mohan		Oak Ridge National Laboratory
+
+![image](https://github.com/user-attachments/assets/03a7ef6f-101c-4065-a45f-2d72c1927d93)
+
