@@ -1,6 +1,6 @@
 # AI Symposium （https://bit.ly/aiacs)
 2025 Spring（American Chemical Society, I&amp;EC) ACS spring meeting [2025](https://www.acs.org/meetings/acs-meetings/spring.html) March 23-27， San Diego, CA & Virtual
-## Short URL: [mobile](https://bit.ly/m/aiacs)
+## Short URL (mobile): https://bit.ly/m/aiacs
 
 ## Confirmed Speakers for our AI-Data Symposium (ACS, I&EC):
 
@@ -20,6 +20,6 @@
 ![image](https://github.com/user-attachments/assets/03a7ef6f-101c-4065-a45f-2d72c1927d93)
 
 ### Short URL of this page: https://bit.ly/aiacs
-QR Code for this page:
+### QR Code for this page:
 ![image](https://github.com/user-attachments/assets/d108dc94-60b5-4428-9ac2-baedb9b34759)
 
