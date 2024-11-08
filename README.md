@@ -1,4 +1,4 @@
-# AI-Data Symposium
+# AI-Data Symposium https://bit.ly/aiacs
 2025 Spring（American Chemical Society, I&amp;EC)
 
 American Chemical Society （ACS） Spring 2025
