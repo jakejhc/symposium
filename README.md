@@ -1,6 +1,5 @@
-# AI-Data Symposium https://bit.ly/aiacs
+# AI-Data Symposium (short URL of this page: https://bit.ly/aiacs)
 2025 Spring（American Chemical Society, I&amp;EC)
-![image](https://github.com/user-attachments/assets/d108dc94-60b5-4428-9ac2-baedb9b34759)
 
 American Chemical Society （ACS） Spring 2025
 March 23-27， San Diego, CA & Virtual
@@ -22,4 +21,8 @@ In Person Session 3:
 
 Virtual Session:
 ![image](https://github.com/user-attachments/assets/03a7ef6f-101c-4065-a45f-2d72c1927d93)
+
+Short URL of this page: https://bit.ly/aiacs
+QR Code for this page:
+![image](https://github.com/user-attachments/assets/d108dc94-60b5-4428-9ac2-baedb9b34759)
 
