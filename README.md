@@ -1,5 +1,6 @@
 # AI-Data Symposium https://bit.ly/aiacs
 2025 Spring（American Chemical Society, I&amp;EC)
+![image](https://github.com/user-attachments/assets/d108dc94-60b5-4428-9ac2-baedb9b34759)
 
 American Chemical Society （ACS） Spring 2025
 March 23-27， San Diego, CA & Virtual
