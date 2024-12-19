@@ -5,7 +5,7 @@
 ## Confirmed Speakers for our AI-Data Symposium (ACS, I&EC):
 
 ### In-Person Session 1:
-![image](https://github.com/user-attachments/assets/60497bde-3373-417b-b4f1-000d533658cd)
+![image](https://github.com/user-attachments/assets/604f7430-a582-45aa-b23f-f6549dd5ad44)
 
 
 ### In Person Session 2：
