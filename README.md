@@ -9,15 +9,18 @@
 
 
 ### In Person Session 2：
-![image](https://github.com/user-attachments/assets/2984c5b0-c20b-4d2f-b205-0a3e3d3e6a73)
+![image](https://github.com/user-attachments/assets/158daeb1-22e3-46c0-ba02-f256bbf38760)
 
 
 ### In Person Session 3:
-![image](https://github.com/user-attachments/assets/bdbb95a8-1a3a-4782-8f2c-827725825ea1)
+![image](https://github.com/user-attachments/assets/6d713c41-5cb5-4262-8ef2-30080150874a)
+
+### In Person Session 4:
+![image](https://github.com/user-attachments/assets/30e02c7e-0826-4fd7-ae7b-05758aa90edb)
 
 
 ### Virtual Session:
-![image](https://github.com/user-attachments/assets/03a7ef6f-101c-4065-a45f-2d72c1927d93)
+![image](https://github.com/user-attachments/assets/f3d05097-6554-4c0e-b91c-c68d8b393079)
 
 ### Short URL of this page: https://bit.ly/aiacs
 ### QR Code for this page:
