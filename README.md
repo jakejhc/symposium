@@ -37,7 +37,7 @@ Session Chairs: Zihao Ou  (UT  Dallas), Sita Sirisha Madugula (ORNL)
 
 Session Chairs: Yifei Jin (Univ. of Nevada-Reno), Sita Sirisha Madugula (ORNL), Hanyu Wang (ORNL)
 
-![ai4sobo (7)](https://github.com/user-attachments/assets/2e442402-fd19-481a-8887-46b13dab98c6)
+![ai4sobo (11)](https://github.com/user-attachments/assets/e24ba524-f464-4f05-a114-a744f62b1564)
 
 ![ai4sobo (8)](https://github.com/user-attachments/assets/eead420e-1c30-47b0-9214-649f597b27de)
 
