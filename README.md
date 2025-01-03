@@ -6,7 +6,7 @@
 ## Confirmed Speakers for our AI-Data Symposium (ACS, I&EC):
 
 
-### March 25 Tuesday, Virtual Session:
+### 1. March 25 Tuesday, Virtual Session:
 ![ai4sobo (1)](https://github.com/user-attachments/assets/1e7875e1-80e1-4e08-8bfc-81459e261586)
 
 ![ai4sobo (2)](https://github.com/user-attachments/assets/0885cdcb-c9cb-4eb1-bd4f-685d44a0b53c)
@@ -14,15 +14,19 @@
 
 
 
-### Marcch 25 Tuessday, AM In-Person Session:
+### 2. Marcch 25 Tuessday, AM In-Person Session:
+
+![ai4sobo (4)](https://github.com/user-attachments/assets/f99e2adb-70b8-44a8-b3ba-161c55fab0d7)
+
+![ai4sobo (3)](https://github.com/user-attachments/assets/0e3137b2-00b1-4a64-9711-d1820627bfd4)
 
 
-### Marcch 25 Tuessday, PM In-Person Session:
+### 3. Marcch 25 Tuessday, PM In-Person Session:
 
 
-### Marcch 26 Wednesday, AM In-Person Session:
+### 4. Marcch 26 Wednesday, AM In-Person Session:
 
-### Marcch 26 Wednesday, PM In-Person Session:
+### 5. Marcch 26 Wednesday, PM In-Person Session:
 
 
 
