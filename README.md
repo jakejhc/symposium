@@ -1,10 +1,10 @@
 # ACS AI Symposium （https://bit.ly/aiacs)
 ACS（American Chemical Society) meeting [2025](https://www.acs.org/meetings/acs-meetings/spring.html) March 23-27， San Diego, CA & Virtual
-
+### Sponsored by I&EC, PMSE, and POLY
+## A total of 4 In-person and 1 Virtual Sessions:
 ![ai4sobo](https://github.com/user-attachments/assets/7f865baf-54ec-4cb8-8313-a53975d42e06)
 
-## Sponsored by I&EC, PMSE, and POLY
-## Confirmed Speakers for our AI-Data Symposium 
+## Confirmed Speakers for our AI-Data Symposium: 
 
 
 ### 1. March 25 Tuesday, Virtual Session:
