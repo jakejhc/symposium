@@ -7,14 +7,17 @@
 
 
 ### 1. March 25 Tuesday, Virtual Session:
+
+Session Chairs: Jie Xu, Hanyu Wang
+
 ![ai4sobo (1)](https://github.com/user-attachments/assets/1e7875e1-80e1-4e08-8bfc-81459e261586)
 
 ![ai4sobo (2)](https://github.com/user-attachments/assets/0885cdcb-c9cb-4eb1-bd4f-685d44a0b53c)
 
 
-
-
 ### 2. Marcch 25 Tuessday, AM In-Person Session:
+
+Session Chairs: Wook, Miguel
 
 ![ai4sobo (4)](https://github.com/user-attachments/assets/f99e2adb-70b8-44a8-b3ba-161c55fab0d7)
 
@@ -23,6 +26,8 @@
 
 ### 3. Marcch 25 Tuessday, PM In-Person Session:
 
+Session Chairs: Zihao Ou, Sita Sirisha Madugula
+
 ![ai4sobo (5)](https://github.com/user-attachments/assets/962aea1e-f36b-47ac-832b-fb42611e29ac)
 
 ![ai4sobo (6)](https://github.com/user-attachments/assets/8b328431-7856-4e3c-a3e0-af473ef4054a)
@@ -30,12 +35,16 @@
 
 ### 4. Marcch 26 Wednesday, AM In-Person Session:
 
+Session Chairs: Yifei Jin, Sita Sirisha Madugula, Hanyu  Wang
+
 ![ai4sobo (7)](https://github.com/user-attachments/assets/2e442402-fd19-481a-8887-46b13dab98c6)
 
 ![ai4sobo (8)](https://github.com/user-attachments/assets/eead420e-1c30-47b0-9214-649f597b27de)
 
 
 ### 5. Marcch 26 Wednesday, PM In-Person Session:
+
+Session Chair: Qianxiang Ai
 
 ![ai4sobo (9)](https://github.com/user-attachments/assets/7e31e9c4-d665-417c-959a-8ac81c7a4ecf)
 
