@@ -1,6 +1,7 @@
 # ACS AI Symposium （https://bit.ly/aiacs)
 ACS（American Chemical Society) meeting [2025](https://www.acs.org/meetings/acs-meetings/spring.html) March 23-27， San Diego, CA & Virtual
 
+![ai4sobo](https://github.com/user-attachments/assets/7f865baf-54ec-4cb8-8313-a53975d42e06)
 
 ## Confirmed Speakers for our AI-Data Symposium (Sponsored by I&EC, PMSE, and POLY):
 
@@ -54,4 +55,3 @@ Session Chair: Qianxiang Ai (MIT)
 ### QR Code for this page:
 ![image](https://github.com/user-attachments/assets/d108dc94-60b5-4428-9ac2-baedb9b34759)
 ## Short URL (mobile): https://bit.ly/m/aiacs
-![ai4sobo](https://github.com/user-attachments/assets/7f865baf-54ec-4cb8-8313-a53975d42e06)
