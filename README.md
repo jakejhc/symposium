@@ -3,7 +3,8 @@ ACS（American Chemical Society) meeting [2025](https://www.acs.org/meetings/acs
 
 ![ai4sobo](https://github.com/user-attachments/assets/7f865baf-54ec-4cb8-8313-a53975d42e06)
 
-## Confirmed Speakers for our AI-Data Symposium (Sponsored by I&EC, PMSE, and POLY):
+## Sponsored by I&EC, PMSE, and POLY
+## Confirmed Speakers for our AI-Data Symposium 
 
 
 ### 1. March 25 Tuesday, Virtual Session:
