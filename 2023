@@ -1,4 +1,27 @@
 2023 fall meeting, American Chemical Society, San Francisco CA
 3 session in toal (4 hours per session)
 
-Speaker List:
+Talk and Speaker List:
+
+	Abstract Title			Presenting Author		Institutions
+1	Discovery of Multi-Functional Polyimides through High-Throughput Screening using Explainable Machine Learning			Ying Li		1. Mechanical Engineering, University of Wisconsin System, Madison, Wisconsin, United States
+2	Understanding structure and molecular exchange dynamics of sodium dodecyl sulfonate micelles from small angle neutron scattering experiments			Changwoo Do		1. Oak Ridge National Laboratory, Oak Ridge, Tennessee, United States. 2. National Tsing Hua University, Hsinchu, Taiwan. 3. National Sun Yat-sen University, Kaohsiung, Taiwan. 4. Amorepacific Corporation, Jung-gu, Seoul, Korea (the Republic of). 5. Samsung Electronics, Suwon, Gyeonggi-do, Korea (the Republic of)
+3	Development of high mobility organic semiconductors beyond trial-and-error			Oana Jurchescu		1. Physics, Wake Forest University, Winston-Salem, North Carolina, United States
+4	<br> Generative Models for Synthetically Accessible Polymers			Nicholas Jackson		1. University of Illinois Urbana-Champaign, Urbana, Illinois, United States
+5	Design of Charged Star Block Copolymer Surfactants via Machine Learning and Coarse-Grained Molecular Dynamics Simulations			Jan Michael Carrillo		1. Oak Ridge National Laboratory, Oak Ridge, Tennessee, United States. 2. Indian Institute of Technology Madras, Chennai, Tamil Nadu, India. 3. Argonne National Laboratory, Lemont, Illinois, United States. 4. University of Illinois Chicago, Chicago, Illinois, United States. 5. University of Massachusetts Amherst, Amherst, Massachusetts, United States. 6. E O Lawrence Berkeley National Laboratory, Berkeley, California, United States
+6	Electrodeposition of ultrathin functional polymer films â€“ high throughput materials discovery and process optimization			Joerg Werner		1. Mechanical Engineering and Materials Science and Engineering, Boston University, Boston, Massachusetts, United States
+7	Data-driven discovery of Novel Biomolecular Condensates			Michael Webb		1. Princeton University, Princeton, New Jersey, United States
+8	The coming prevalence of data and AI in polymer materials and manufacturing			Rigoberto Advincula		1. CNMS, Oak Ridge National Laboratory, Oak Ridge, Tennessee, United States. 2. Chemical and Biomolecular, The University of Tennessee Knoxville Tickle College of Engineering, Knoxville, Tennessee, United States
+9	Electron tomography and machine learning-based analysis of polyamide membranes			Qian Chen		1. Department of Materials Science and Engineering, University of Illinois Urbana-Champaign, Urbana, Illinois, United States
+10	Challenges of AI in Healthcare, from Data Efficiency to Causal Explanation of the AI Decision			Kayhan Batmanghelich		1. Electrical and Computer Engineering, Boston University, Boston, Massachusetts, United States
+11	Enhancing Materials Characterization of Polymer-Hybrid Materials with Advanced Image Analytics			Lawrence Drummy		1. Air Force Research Laboratory, Wright-Patterson AFB, Ohio, United States
+12	Data science approaches to develop predictive models for organic materials			Badri Narayanan		1. Mechanical Engineering, University of Louisville, Louisville, Kentucky, United States
+13	Unraveling Structural and Chemical Heterogeneity of Polymer-based Solid Electrolytes			Guang Yang		1. Chemical Sciences Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, United States
+14	Phase-Field DeepONet: Physics-informed deep operator neural network for fast simulations of pattern formation governed by gradient flows of free-energy functionals			Juner Zhu		1. Mechanical and Industrial Engineering, Northeastern University, Boston, Massachusetts, United States
+15	Computational design of drug-excipient nanoparticles			Daniel Reker		1. Department of Biomedical Engineering, Duke University, Durham, North Carolina, United States
+16	Assemblies of Multi-Component Intrinsically Disordered Proteins and Their Spatial Organization			Yaxin An		1. Chemical Engineering, Louisiana State University, Baton Rouge, LA, United States.
+17	Smart process data analytics for model prediction			Richard D. Braatz		1. Chemical Engineering, Massachusetts Institute of Technology, Cambridge, MA,United States.
+18	Stimuli-responsive, morphing liquid crystal elastomer structures for intelligent systems			Xueju Wang		1. Materials Science and Engineering, University of Connecticut, Storrs, CT, UnitedStates.
+19	Physics-informed data-driven modeling for generalizable geometric error prediction and compensation in two-photon lithography			Chenhui Shao		1. Mechanical Science and Engineering, University of Illinois Urbana-Champaign, Urbana, IL, United States. 2. School of Engineering, Brown University, Providence, RI, United States.
+20	Experimental Method Development for Multi-Fidelity Research			Joseph Palomba		1. Soldier Protection Directorate, U.S. Army Combat Capabilities Development Command Soldier Center, Natick, MA, United States. 2. 2. Department of Mechanical Engineering, Boston University, Boston, MA, United States. 3. 3. Physics Department and Division of Materials Science and Engineering, Boston University, Boston, MA, United States.
+21	Interpreting Neutron Reflectivity from Thin Films of Block Copolymers using Neural Networks			Rajeev Kumar		1. Center for Nanophase Materials Sciences, Oak Ridge National Laboratory, Oak Ridge, TN, United States. 2. Neutron Scattering Division, Oak Ridge National Laboratory, Oak Ridge, TN, United States.
