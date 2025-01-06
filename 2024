@@ -2,47 +2,45 @@
 4 sessions in total (4 hours per session)
 
 Talk and Speaker list: (from https://acs.digitellinc.com/)
-
-Title		Presenting Author			Submitter Institutions											
-AtomNet: Quantifying Atomically Dispersed Catalysts Using Deep Learning Assisted Microscopy		Zhang, Guannan			Oak Ridge National Laboratory											
-Steering Actuation Direction in Liquid Crystalline Elastomer Fibers: From Contraction to Elongation		Ahn, Suk-kyun			Pusan National University											
-Color changing polymer stabilized liquid crystal gels in response to electric fields		Lee, Kyungmin			Air Force Research Laboratory											
-Accelerated Materials and Molecular Discovery with Autonomous Fluidic Labs		Abolhasani, Milad			NC State University											
-Synergizing Language Models, Generative Adversarial Networks, and Genetic Algorithms for Next-Generation Molecular Design		Bhowmik, Debsindhu			Oak Ridge National Laboratory											
-Advancing Machine Learning Approaches for the Discovery of Organic Semiconductors		Risko, Chad			University of Kentucky											
-Voxelated opto-physically unclonable functions using irreplicable micro-wrinkles		Na, Jun-Hee			Chungnam National University											
-Understanding Alginate-Nanoclay Interactions for Rational Design of 3D Bioprinting Strategies		Jin, Yifei			University of Nevada Reno											
-Templating effect of MoSe2 on crystallization of polyethylene : A Molecular Dynamics Simulation Study		Li, Yumeng			University of Illinois System											
-Persistent Homology as a Tool for Chemical Machine Learning: A Story of Birth and Death		Vogiatzis, Konstantinos			The University of Tennessee Knoxville											
-S-PLM: Structure-aware Protein Language Model via Contrastive Learning between Sequence and Structure		Shao, Qing			University of Kentucky											
-Spatial and Time-resolved Mapping in Optoelectronic Devices: A Multimodal Technique to Visualize the Nanoscale Photoinduced Charge Dynamics		Qiao, Quinn			Syracuse University											
-Optimizing Cell Culture Seed Train Processes through Advanced Modeling and Data Mining		Li, Yi			Amgen Inc											
-INTERSECT: The Interconnected Science Ecosystem		Moore, Robert			Oak Ridge National Laboratory											
-Decoding protein languages in environment and health		Chen, Serena			Oak Ridge National Laboratory											
-High throughput screening of supramolecular copolymer phase diagragram through modular synthesis of end-functional polymers		Gu, Xiaodan			University of Southern Mississippi											
-Laying the Framework for Automation in the Production of Radioisotopes.		Greulich, Christopher			Oak Ridge National Laboratory											
-Data analytics and high-throughput experiments in organic electronic polymer development and manufacturing		Meredith, James			Georgia Institute of Technology											
-Valorizing natural polymers in the development of stress-strain sensors for healthcare innovations		Nguyen, Ngoc			University of Illinois Urbana-Champaign											
-Confinement effects on electrolyte solution dynamics using machine learning potentials		Yue, Shuwen			Cornell University											
-Understanding drug-gene interaction in cancer toxicities: assembling pharmacovigilance and pharmacogenomic data via multi-stage statistical methodologies and machine learning approaches		Xu, Xuan			Kansas State University1DATA Consortium											
-Artificial Intelligence (AI) Solutions for Organic Chemistry and Drug Discovery Tasks		Isayev, Olexandr			Carnegie Mellon University											
-Data science to support the discovery and manufacture of small molecule therapeutics		Coley, Connor			Massachusetts Institute of Technology											
-Developing a Machine Learning Workflow to Analyze and Interpret Neutron Reflectivity Data		Fuentes-Cabrera, Miguel			Northeastern University											
-Advanced manufacturing and flow reactions: towards AI-controlled materials		Advincula, Rigoberto			Oak Ridge National LaboratoryThe University of Tennessee Knoxville Tickle College of Engineering											
-Machine learning centric system for advanced characterization of thin film response to environment		Ivanov, Ilia			Oak Ridge National Laboratory											
-Functionalizing drug-excipient nanoparticles using machine learning		Reker, Daniel			Duke University Pratt School of Engineering											
-Autonomous Platform for Solution Processing of Electronic Polymers		Xu, Jie			Argonne National Laboratory											
-Size-transferable prediction of excited state properties for molecular assemblies with machine-learned exciton model		Ren, Fangning			Emory University											
-Functional Flexible Materials for Bioinspired Miniature Soft Robotics		Wang, Tianlu			University of Hawai'i at Manoa											
-Magnetic Actuation and Assembly of Microarchitectured Polymer Composites		Wie, JeongJae			Hanyang UniversitySUNY College of Environmental Science and Forestry											
-Integration of flow reactors and instruments into a networked ecosystem with high-performance computing facilities for remote orchestration and automation		Al Najjar, Anees			Oak Ridge National Laboratory											
-Autonomous Chemistry Laboratory: Building an Integrated Laboratory for Liquid and Solid State Synthesis		Bridges, Craig			Oak Ridge National Laboratory											
-Integrated autonomous multi-step platform for rapid manufacturing of tailored drug-loaded nanoparticles in flow		Kim, Dongpyo			Pohang University of Science and Technology											
-Machine Learning for Predicting Charge Carrier Mobility of Organic Semiconductors		He, Zhengran			Penn State Behrend											
-Heterogeneity in Sloid-state Electrolytes through Advanced Spectral Analysis Techniques		Yang, Guang			Oak Ridge National Laboratory											
-A Tale of Two Process Analytical Technologies: Increasing Process Robustness with FlowVPX and PATROL		Wang, Miao			Bristol-Myers Squibb Company											
-Adapting Graph Neural Networks for Prediction of the High-Fidelity Electronic Structure of Materials and Catalysts		Sutton, Christopher			University of South Carolina											
-Privacy-Preserving AI for Healthcare		Hu, Rui			University of Nevada Reno											
-AI for Tablet Quality Control and Industrial Success Stories of AI Implementations in Chemical and Pharmaceutical Manufacturing		Hacioglu, Aycan			Mathworks Inc											
-
+	Title		Presenting Author			Submitter Institutions
+1	AtomNet: Quantifying Atomically Dispersed Catalysts Using Deep Learning Assisted Microscopy		Zhang, Guannan			Oak Ridge National Laboratory
+2	Steering Actuation Direction in Liquid Crystalline Elastomer Fibers: From Contraction to Elongation		Ahn, Suk-kyun			Pusan National University
+3	Color changing polymer stabilized liquid crystal gels in response to electric fields		Lee, Kyungmin			Air Force Research Laboratory
+4	Accelerated Materials and Molecular Discovery with Autonomous Fluidic Labs		Abolhasani, Milad			NC State University
+5	Synergizing Language Models, Generative Adversarial Networks, and Genetic Algorithms for Next-Generation Molecular Design		Bhowmik, Debsindhu			Oak Ridge National Laboratory
+6	Advancing Machine Learning Approaches for the Discovery of Organic Semiconductors		Risko, Chad			University of Kentucky
+7	Voxelated opto-physically unclonable functions using irreplicable micro-wrinkles		Na, Jun-Hee			Chungnam National University
+8	Understanding Alginate-Nanoclay Interactions for Rational Design of 3D Bioprinting Strategies		Jin, Yifei			University of Nevada Reno
+9	Templating effect of MoSe2 on crystallization of polyethylene : A Molecular Dynamics Simulation Study		Li, Yumeng			University of Illinois System
+10	Persistent Homology as a Tool for Chemical Machine Learning: A Story of Birth and Death		Vogiatzis, Konstantinos			The University of Tennessee Knoxville
+11	S-PLM: Structure-aware Protein Language Model via Contrastive Learning between Sequence and Structure		Shao, Qing			University of Kentucky
+12	Spatial and Time-resolved Mapping in Optoelectronic Devices: A Multimodal Technique to Visualize the Nanoscale Photoinduced Charge Dynamics		Qiao, Quinn			Syracuse University
+13	Optimizing Cell Culture Seed Train Processes through Advanced Modeling and Data Mining		Li, Yi			Amgen Inc
+14	INTERSECT: The Interconnected Science Ecosystem		Moore, Robert			Oak Ridge National Laboratory
+15	Decoding protein languages in environment and health		Chen, Serena			Oak Ridge National Laboratory
+16	High throughput screening of supramolecular copolymer phase diagragram through modular synthesis of end-functional polymers		Gu, Xiaodan			University of Southern Mississippi
+17	Laying the Framework for Automation in the Production of Radioisotopes.		Greulich, Christopher			Oak Ridge National Laboratory
+18	Data analytics and high-throughput experiments in organic electronic polymer development and manufacturing		Meredith, James			Georgia Institute of Technology
+19	Valorizing natural polymers in the development of stress-strain sensors for healthcare innovations		Nguyen, Ngoc			University of Illinois Urbana-Champaign
+20	Confinement effects on electrolyte solution dynamics using machine learning potentials		Yue, Shuwen			Cornell University
+21	Understanding drug-gene interaction in cancer toxicities: assembling pharmacovigilance and pharmacogenomic data via multi-stage statistical methodologies and machine learning approaches		Xu, Xuan			Kansas State University1DATA Consortium
+22	Artificial Intelligence (AI) Solutions for Organic Chemistry and Drug Discovery Tasks		Isayev, Olexandr			Carnegie Mellon University
+23	Data science to support the discovery and manufacture of small molecule therapeutics		Coley, Connor			Massachusetts Institute of Technology
+24	Developing a Machine Learning Workflow to Analyze and Interpret Neutron Reflectivity Data		Fuentes-Cabrera, Miguel			Northeastern University
+25	Advanced manufacturing and flow reactions: towards AI-controlled materials		Advincula, Rigoberto			Oak Ridge National LaboratoryThe University of Tennessee Knoxville Tickle College of Engineering
+26	Machine learning centric system for advanced characterization of thin film response to environment		Ivanov, Ilia			Oak Ridge National Laboratory
+27	Functionalizing drug-excipient nanoparticles using machine learning		Reker, Daniel			Duke University Pratt School of Engineering
+28	Autonomous Platform for Solution Processing of Electronic Polymers		Xu, Jie			Argonne National Laboratory
+29	Size-transferable prediction of excited state properties for molecular assemblies with machine-learned exciton model		Ren, Fangning			Emory University
+30	Functional Flexible Materials for Bioinspired Miniature Soft Robotics		Wang, Tianlu			University of Hawai'i at Manoa
+31	Magnetic Actuation and Assembly of Microarchitectured Polymer Composites		Wie, JeongJae			Hanyang UniversitySUNY College of Environmental Science and Forestry
+32	Integration of flow reactors and instruments into a networked ecosystem with high-performance computing facilities for remote orchestration and automation		Al Najjar, Anees			Oak Ridge National Laboratory
+33	Autonomous Chemistry Laboratory: Building an Integrated Laboratory for Liquid and Solid State Synthesis		Bridges, Craig			Oak Ridge National Laboratory
+34	Integrated autonomous multi-step platform for rapid manufacturing of tailored drug-loaded nanoparticles in flow		Kim, Dongpyo			Pohang University of Science and Technology
+35	Machine Learning for Predicting Charge Carrier Mobility of Organic Semiconductors		He, Zhengran			Penn State Behrend
+36	Heterogeneity in Sloid-state Electrolytes through Advanced Spectral Analysis Techniques		Yang, Guang			Oak Ridge National Laboratory
+37	A Tale of Two Process Analytical Technologies: Increasing Process Robustness with FlowVPX and PATROL		Wang, Miao			Bristol-Myers Squibb Company
+38	Adapting Graph Neural Networks for Prediction of the High-Fidelity Electronic Structure of Materials and Catalysts		Sutton, Christopher			University of South Carolina
+39	Privacy-Preserving AI for Healthcare		Hu, Rui			University of Nevada Reno
+40	AI for Tablet Quality Control and Industrial Success Stories of AI Implementations in Chemical and Pharmaceutical Manufacturing		Hacioglu, Aycan			Mathworks Inc
 
