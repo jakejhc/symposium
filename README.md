@@ -3,7 +3,7 @@ ACS（American Chemical Society) meeting [2025](https://www.acs.org/meetings/acs
 ### Sponsored by I&EC, PMSE, and POLY
 ![ai-acs](https://github.com/user-attachments/assets/b9ae7127-bd5b-4397-b2fa-91b6c700673f)
 
-## A total of 4 In-person and 1 Virtual Sessions:
+## <font color='green'>  A total of 4 In-person and 1 Virtual Sessions:
 ![ai4sobo](https://github.com/user-attachments/assets/7f865baf-54ec-4cb8-8313-a53975d42e06)
 
 ## Confirmed Speakers for our AI-Data Symposium: 
