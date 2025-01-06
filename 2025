@@ -2,7 +2,60 @@ American Chemical Society （ACS） Spring 2025
 March 23-27， San Diego, CA & Virtual
 official link: https://www.acs.org/meetings/acs-meetings/spring.html
 
-Confirmed Speakers for our AI-Data Symposium (ACS, I&EC):
+Talk and Speaker List:
+
+	Title		Presenting Author		Submitter Institutions
+1	Towards Predictive Synthesis with Atomistic Simulations and Robust Machine Learning		Schwalbe Koda, Daniel		University of California Los Angeles
+2	Navigation of Digital Chemical Spaces		Colon, Yamil		University of Notre Dame College of Engineering
+3	AI/ML Optimization Workflows of Materials Properties and Manufacturing: Importance of Autonomous Laboratories and Data Mining		Advincula, Rigoberto		Oak Ridge National LaboratoryThe University of Tennessee Knoxville Tickle College of Engineering
+4	Flow Visualization and Mixing Enhancement in Y-Junction Microchannel with 3D Acoustic Streaming Flow Patterns Induced by Trapezoidal Triangular Structure using High-Viscous Liquids		Ali, Ayalew		National Taiwan University of Science and Technology
+5	Embedded 3D Bioprinting: From Material Design to Method Development		Jin, Yifei		University of Nevada Reno
+6	Functional Monomer Design via the Open Macromolecular Genome		Jackson, Nicholas		University of Illinois Urbana-Champaign
+7	Digital Twin for Chemical Sciences (DTCS): A Blueprint for Digitizing Chemical Characterization		Qian, Jin		E O Lawrence Berkeley National Laboratory
+8	Role of AI and Machine Learning In Drug discovery and Healthcare		Madugula, Sita Sirisha		Oakridge National Laboratory
+9	Application of Noise2Noise algorithm for high-throughput AFM imaging of polymer membranes		Wang, Qianshu		ICSPI
+10	Schedule Optimization and Simulation for Chemical Library Synthesis		Ai, Qianxiang		Massachusetts Institute of TechnologyAbstrax Tech Inc
+11	Polymer Informatics with Large Language Models		Agarwal, Sakshi		Georgia Institute of Technology
+12	Multiscale Modeling and Data-Driven Material by Design for Multifunctional Polymers		Xia, Wenjie		Iowa State University of Science and Technology
+13	ACEG-GNN: Can Graph Neural Network Learn to Explain Activity Cliffs?		Chen, Xu		Emory University
+14	Data-Driven Approaches to Engineer Bidomain Enzymes		Yang, Zhongyue		Vanderbilt University
+15	Uncertainty Characterization of Foundation Models for Reliable Applications in Materials and Chemistry		Vital Brazil, Emilio		IBM Research - Brazil
+16	Advanced modelling techniques for the optimisation of chromatographic separation processes		Michalopoulou, Foteini		Imperial College LondonImperial College London
+17	Engineering Defect Vibrations to Enhance Interfacial Thermal Transport in Polymer Composites		Xu, Yanfei		University of Massachusetts Amherst
+18	SMART (Synthetic Materials and Rapid Therapeutics): Revolutionizing Healthcare and Engineering Chemistry with AI and Data Analytics		Bhowmik, Debsindhu		Oak Ridge National Laboratory
+19	Data-Driven Design of Reactive Technologies: Case Studies In Energy Storage		Spotte-Smith, Evan		Carnegie Mellon University
+20	Harnessing DFT and Machine Learning for Accurate Optical Gap Prediction in Conjugated Polymers		Liu, Mingjie		University of Florida
+21	Design of AI-Guided Materials Acceleration Platforms for Emerging Semiconductor Applications		Amassian, Aram		NC State UniversityNC State University
+22	Direct Sound Printing: 3D printing with ultrasound and holograms and its applications in non-invasive surgery		Habibi, Mohsen		University of California Davis College of Engineering
+23	Labs of the Future: Creating a Systems of Systems Ecosystem for Cross-Domain Scientific Autonomous Workflows		Moore, Robert		Oak Ridge National Laboratory
+24	Identifying novel peptide-based therapeutics through AI and simulations		Perez, Alberto		University of Florida
+25	Molecular insights into room-temperature decomposition of the ethaline deep eutectic solvent using machine learning interatomic potentials with quantum chemical accuracy		Yang, Julia		Georgia Institute of Technology
+26	Practical Application of Machine Learning Requires Rethinking Small Data		Yang, Qian		University of Connecticut
+27	An extreme-scale multi-fidelity computational active learning paradigm to realize autonomous synthesis of 2D layered thin-film systems		Ganesh, Panchapakesan		Oak Ridge National Laboratory
+28	Machine Learning for Nanoparticle Design		Reker, Daniel		Duke University
+29	Machine-learning enhanced photonics engineering for optical transparency in biological tissues		Ou, Zihao		The University of Texas at Dallas
+30	Advanced manufacturing of wearable sensors for accessible, personalized health monitoring		Ray, Tyler		University of Hawai'i at ManoaUniversity of Hawai'i at Manoa John A Burns School of Medicine
+31	Using Data Science to Shed Light on Zeolite Nanoporous Structures and How They Form		Auerbach, Scott		University of Massachusetts Amherst
+32	Smart Platform for Solution Processing Electronic Polymer Thin Films		Xu, Jie		Argonne National Laboratory
+33	Designing conjugated polymers with narrow band gap for optoelectronic applications		Rai, Neeraj		Mississippi State University
+34	Atom-pairwise hybrid neural network / physics models for protein-ligand interactions		Sherrill, Charles		Georgia Institute of Technology
+35	Automated Analysis of Time-Dependent Specular Neutron Reflectometry from Thin Films of Ionic Polymers Using Neural Networks		Kumar, Rajeev		Oak Ridge National Laboratory
+36	Materials informatics for structure-property pelationships (MISPR) for electrolyte and electrode-electrolyte interfaces		Rajput, Nav Nidhi		Stony Brook University
+37	Towards autonomous laboratory workflow for copolymerization: tools, models, ML and LLM.		Ivanov, Ilia | Advincula, Rigoberto		Oak Ridge National Laboratory
+38	Modeling Nonequilibrium Reactive Systems with REACTER		Gissinger, Jacob		Stevens Institute of Technology
+39	Machine Learning Guided Recognition of Halogenated compounds in Mass Spectrometry-based Exposomics		Huan, Tao		Oak Ridge National Laboratory
+40	The quest to replace Ir as a catalyst for the oxygen evolution reaction		Huang, Jin		Oak Ridge National Laboratory
+41	Autonomous materials informatics for polymer materials development		Shiomi, Junichiro		Oak Ridge National Laboratory
+42	Opportunities for Overcoming the “Valley of Death” in Developing New Functional Materials		Kulkarni, Ambar		Oak Ridge National Laboratory
+43	Challenges and opportunities in building an autonomous solid state chemistry laboratory		Bridges, Craig		Oak Ridge National Laboratory
+44	AI for Antibiotic Discovery		de la Fuente, Cesar		Oak Ridge National Laboratory
+45	Machine Learning Guided Property Based Exploration of Chemical Space		Garikapati, Narahari Sastry		Oak Ridge National Laboratory
+46	Computational analysis workflows for biological imaging data: data standardization, continual model training, and data storage and sharing		vasudevan, rama		Oak Ridge National Laboratory
+47	AI AND MODELING IN DRUG AND VACCINE DESIGN		Smith, Jeremy		Oak Ridge National Laboratory
+
+
+
+## Confirmed Speakers for our AI-Data Symposium (ACS, I&EC):
 
 In-Person Sessions:
 
