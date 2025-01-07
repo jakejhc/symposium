@@ -1,7 +1,6 @@
 # <font color='green'> ACS AI Symposium（https://bit.ly/aiacs)
-ACS（American Chemical Society) meeting [2025](https://www.acs.org/meetings/acs-meetings/spring.html) March 23-27， San Diego, CA & Virtual
-### Sponsored by I&EC, PMSE, and POLY
-![ai-acs](https://github.com/user-attachments/assets/b9ae7127-bd5b-4397-b2fa-91b6c700673f)
+ACS（American Chemical Society) meeting [2025](https://www.acs.org/meetings/acs-meetings/spring.html) March 23-27， San Diego, CA & Virtual (Sponsored by I&EC, PMSE, and POLY)
+![ai-banner](https://github.com/user-attachments/assets/eb20f117-5477-46d0-888d-78330932e663)
 
 ## <font color='green'>  A total of 4 In-person and 1 Virtual Sessions:
 ![ai4sobo](https://github.com/user-attachments/assets/7f865baf-54ec-4cb8-8313-a53975d42e06)
