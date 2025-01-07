@@ -6,10 +6,6 @@ ACS（American Chemical Society) meeting [2025](https://www.acs.org/meetings/acs
 ## <font color='green'>  A total of 4 In-person and 1 Virtual Sessions:
 ![ai4sobo](https://github.com/user-attachments/assets/7f865baf-54ec-4cb8-8313-a53975d42e06)
 
-## Confirmed Speakers for our AI-Data Symposium: 
-### (including experts from ORNL, ANL, IBM, MIT, Duke, Emory, Northwestern, GaTech and more) 
-
-
 # 1. March 25 Tuesday, Virtual Session:
 
 Session Chairs: Jie Xu (ANL), Hanyu Wang (ORNL)
