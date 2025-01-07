@@ -31,6 +31,6 @@ Session Chair: Qianxiang Ai (MIT)
 ## Short URL of this page: https://bit.ly/aiacs
 # QR Code for this page:
 ![image](https://github.com/user-attachments/assets/d108dc94-60b5-4428-9ac2-baedb9b34759)
-### Short URL (mobile): https://bit.ly/m/aiacs
+# Our Mobile Page: https://bit.ly/m/aiacs
 ![ai-banner](https://github.com/user-attachments/assets/67914451-d8bd-42e2-8231-132d7a8a47df)
 
