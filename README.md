@@ -33,6 +33,5 @@ Session Chair: Qianxiang Ai (MIT)
 ![image](https://github.com/user-attachments/assets/d108dc94-60b5-4428-9ac2-baedb9b34759)
 ### Short URL (mobile): https://bit.ly/m/aiacs
 
-# An additional invite:
+![ai-acs](https://github.com/user-attachments/assets/38195fa8-fb1d-408e-af0e-75b1d00b4700)
 
-![nm](https://github.com/user-attachments/assets/fcf3bfd5-ec43-42a8-92a4-61a38bc077fb)
