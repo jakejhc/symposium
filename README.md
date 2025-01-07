@@ -55,11 +55,11 @@ Session Chair: Qianxiang Ai (MIT)
 ![ai4sobo (10)](https://github.com/user-attachments/assets/b348e90a-c419-49b5-b61c-deb98607dfe7)
 
 
-### Short URL of this page: https://bit.ly/aiacs
-### QR Code for this page:
+## Short URL of this page: https://bit.ly/aiacs
+# QR Code for this page:
 ![image](https://github.com/user-attachments/assets/d108dc94-60b5-4428-9ac2-baedb9b34759)
 ### Short URL (mobile): https://bit.ly/m/aiacs
 
-## An additional invite:
+# An additional invite:
 
 ![nm](https://github.com/user-attachments/assets/fcf3bfd5-ec43-42a8-92a4-61a38bc077fb)
