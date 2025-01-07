@@ -10,7 +10,7 @@ ACS（American Chemical Society) meeting [2025](https://www.acs.org/meetings/acs
 ### (including experts from ORNL, ANL, IBM, MIT, Duke, Emory, Northwestern, GaTech and more) 
 
 
-### 1. March 25 Tuesday, Virtual Session:
+# 1. March 25 Tuesday, Virtual Session:
 
 Session Chairs: Jie Xu (ANL), Hanyu Wang (ORNL)
 
@@ -19,7 +19,7 @@ Session Chairs: Jie Xu (ANL), Hanyu Wang (ORNL)
 ![ai4sobo (2)](https://github.com/user-attachments/assets/0885cdcb-c9cb-4eb1-bd4f-685d44a0b53c)
 
 
-### 2. March 25 Tuessday, AM In-Person Session:
+# 2. March 25 Tuessday, AM In-Person Session:
 
 Session Chairs: Wook Shin (Vanderbilt), Miguel Fuentes-Cabrera (NorthEastern Univ.)
 
@@ -28,7 +28,7 @@ Session Chairs: Wook Shin (Vanderbilt), Miguel Fuentes-Cabrera (NorthEastern Uni
 ![ai4sobo (3)](https://github.com/user-attachments/assets/0e3137b2-00b1-4a64-9711-d1820627bfd4)
 
 
-### 3. March 25 Tuessday, PM In-Person Session:
+# 3. March 25 Tuessday, PM In-Person Session:
 
 Session Chairs: Zihao Ou  (UT  Dallas), Sita Sirisha Madugula (ORNL)
 
@@ -37,7 +37,7 @@ Session Chairs: Zihao Ou  (UT  Dallas), Sita Sirisha Madugula (ORNL)
 ![ai4sobo (6)](https://github.com/user-attachments/assets/8b328431-7856-4e3c-a3e0-af473ef4054a)
 
 
-### 4. March 26 Wednesday, AM In-Person Session:
+# 4. March 26 Wednesday, AM In-Person Session:
 
 Session Chairs: Yifei Jin (Univ. of Nevada-Reno), Sita Sirisha Madugula (ORNL), Hanyu Wang (ORNL)
 
@@ -46,7 +46,7 @@ Session Chairs: Yifei Jin (Univ. of Nevada-Reno), Sita Sirisha Madugula (ORNL), 
 ![ai4sobo (8)](https://github.com/user-attachments/assets/eead420e-1c30-47b0-9214-649f597b27de)
 
 
-### 5. March 26 Wednesday, PM In-Person Session:
+# 5. March 26 Wednesday, PM In-Person Session:
 
 Session Chair: Qianxiang Ai (MIT)
 
