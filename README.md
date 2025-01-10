@@ -3,7 +3,7 @@ American Chemical Society meeting [2025](https://www.acs.org/meetings/acs-meetin
 ![ai-banner](https://github.com/user-attachments/assets/eb20f117-5477-46d0-888d-78330932e663)
 ![sessions](https://github.com/user-attachments/assets/be77de08-f6c0-495e-8beb-928a63cb21c7)
 # 1. March 25 Tuesday, Virtual Session:
-Session Chairs: Jie Xu (ANL), Hanyu Wang (ORNL)
+Session Chairs: Jie Xu (ANL), Hanyu Wang (ORNL), Ngoc Nguyen (UIUC)
 ![ai4sobo (1)](https://github.com/user-attachments/assets/1e7875e1-80e1-4e08-8bfc-81459e261586)
 ![ai4sobo (2)](https://github.com/user-attachments/assets/0885cdcb-c9cb-4eb1-bd4f-685d44a0b53c)
 
