@@ -18,12 +18,12 @@ Session Chairs: Zihao Ou  (UT  Dallas), Sita Sirisha Madugula (ORNL)
 ![ai4sobo (6)](https://github.com/user-attachments/assets/8b328431-7856-4e3c-a3e0-af473ef4054a)
 
 # 4. March 26 Wednesday, AM In-Person Session:
-Session Chairs: Yifei Jin (Univ. of Nevada-Reno), Sita Sirisha Madugula (ORNL), Hanyu Wang (ORNL)
+Session Chairs: Yifei Jin (Univ. of Nevada-Reno), Hanyu Wang (ORNL)
 ![ai4sobo (11)](https://github.com/user-attachments/assets/e24ba524-f464-4f05-a114-a744f62b1564)
 ![ai4sobo (8)](https://github.com/user-attachments/assets/eead420e-1c30-47b0-9214-649f597b27de)
 
 # 5. March 26 Wednesday, PM In-Person Session:
-Session Chair: Qianxiang Ai (MIT)
+Session Chair: Sita Sirisha Madugula (ORNL), Qianxiang Ai (MIT)
 ![ai4sobo (9)](https://github.com/user-attachments/assets/7e31e9c4-d665-417c-959a-8ac81c7a4ecf)
 ![ai4sobo (10)](https://github.com/user-attachments/assets/b348e90a-c419-49b5-b61c-deb98607dfe7)
 
