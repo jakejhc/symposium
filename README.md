@@ -8,17 +8,17 @@ Session Chairs: Jie Xu (ANL), Hanyu Wang (ORNL), Ngoc Nguyen (UIUC)
 ![ai4sobo (2)](https://github.com/user-attachments/assets/0885cdcb-c9cb-4eb1-bd4f-685d44a0b53c)
 
 # 2. March 25 Tuesday, AM In-Person Session
-Session Chairs: Wook Shin (Vanderbilt), Miguel Fuentes-Cabrera (NorthEastern Univ.)
+Session Chairs: Wook Shin (Vanderbilt), Miguel Fuentes-Cabrera (NorthEastern Univ.), Qianxiang Ai (MIT)
 ![ai4sobo (4)](https://github.com/user-attachments/assets/f99e2adb-70b8-44a8-b3ba-161c55fab0d7)
 ![ai4sobo (3)](https://github.com/user-attachments/assets/0e3137b2-00b1-4a64-9711-d1820627bfd4)
 
 # 3. March 25 Tuesday, PM In-Person Session:
-Session Chairs: Zihao Ou  (UT  Dallas), Sita Sirisha Madugula (ORNL)
+Session Chairs: Zihao Ou  (UT  Dallas), Sita Sirisha Madugula (ORNL), Wook Shin (Vanderbilt)
 ![ai4sobo (5)](https://github.com/user-attachments/assets/962aea1e-f36b-47ac-832b-fb42611e29ac)
 ![ai4sobo (6)](https://github.com/user-attachments/assets/8b328431-7856-4e3c-a3e0-af473ef4054a)
 
 # 4. March 26 Wednesday, AM In-Person Session:
-Session Chairs: Yifei Jin (Univ. of Nevada-Reno), Hanyu Wang (ORNL)
+Session Chairs: Yifei Jin (Univ. of Nevada-Reno), Hanyu Wang (ORNL), Zihao Ou (UT Dallas)
 ![ai4sobo (11)](https://github.com/user-attachments/assets/e24ba524-f464-4f05-a114-a744f62b1564)
 ![ai4sobo (8)](https://github.com/user-attachments/assets/eead420e-1c30-47b0-9214-649f597b27de)
 
