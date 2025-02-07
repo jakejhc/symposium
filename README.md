@@ -7,16 +7,16 @@ Session Chairs: Jie Xu (ANL), Hanyu Wang (ORNL), Ngoc Nguyen (UIUC)
 ![ai4sobo (1)](https://github.com/user-attachments/assets/1e7875e1-80e1-4e08-8bfc-81459e261586)
 ![ai4sobo (2)](https://github.com/user-attachments/assets/0885cdcb-c9cb-4eb1-bd4f-685d44a0b53c)
 
-Note: The above is the official ACS program. However there are the following changes:
-* The third talk (original scheduled for Prof. Huan Tao) is now by Dr. Jeremy Smith from ORNL on "AI and modeling in drug and Vaccine design".
+## Note: The above is the official ACS program. However there are the following changes:
+## The third talk (original scheduled for Prof. Huan Tao) is now by Dr. Jeremy Smith from ORNL on "AI and modeling in drug and Vaccine design".
 
 # 2. March 25 Tuesday, AM In-Person Session
 Session Chairs: Wook Shin (Vanderbilt), Miguel Fuentes-Cabrera (NorthEastern Univ.), Qianxiang Ai (MIT)
 ![ai4sobo (4)](https://github.com/user-attachments/assets/f99e2adb-70b8-44a8-b3ba-161c55fab0d7)
 ![ai4sobo (3)](https://github.com/user-attachments/assets/0e3137b2-00b1-4a64-9711-d1820627bfd4)
 
-Note: The above is the official ACS program. However there are the following changes:
-* The third talk (original scheduled for Dr. Jeremy Smith) is now by Prof. Daniel Reker from Duke on "Machine learning for nanoparticle design".
+## Note: The above is the official ACS program. However there are the following changes:
+## The third talk (original scheduled for Dr. Jeremy Smith) is now by Prof. Daniel Reker from Duke on "Machine learning for nanoparticle design".
 
 # 3. March 25 Tuesday, PM In-Person Session:
 Session Chairs: Zihao Ou  (UT  Dallas), Sita Sirisha Madugula (ORNL), Wook Shin (Vanderbilt)
