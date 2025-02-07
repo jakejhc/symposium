@@ -7,7 +7,7 @@ Session Chairs: Jie Xu (ANL), Hanyu Wang (ORNL), Ngoc Nguyen (UIUC)
 ![ai4sobo (1)](https://github.com/user-attachments/assets/1e7875e1-80e1-4e08-8bfc-81459e261586)
 ![ai4sobo (2)](https://github.com/user-attachments/assets/0885cdcb-c9cb-4eb1-bd4f-685d44a0b53c)
 
-## Note: The above is the official ACS program. However there are the following changes:
+## Note: The above is the official ACS program. However there is the following change:
 ### The third talk (original scheduled for Prof. Huan Tao) is now by Dr. Jeremy Smith from ORNL on "AI and modeling in drug and Vaccine design".
 
 # 2. March 25 Tuesday, AM In-Person Session
@@ -15,7 +15,7 @@ Session Chairs: Wook Shin (Vanderbilt), Miguel Fuentes-Cabrera (NorthEastern Uni
 ![ai4sobo (4)](https://github.com/user-attachments/assets/f99e2adb-70b8-44a8-b3ba-161c55fab0d7)
 ![ai4sobo (3)](https://github.com/user-attachments/assets/0e3137b2-00b1-4a64-9711-d1820627bfd4)
 
-## Note: The above is the official ACS program. However there are the following changes:
+## Note: The above is the official ACS program. However there is the following change:
 ### The third talk (original scheduled for Dr. Jeremy Smith) is now by Prof. Daniel Reker from Duke on "Machine learning for nanoparticle design".
 
 # 3. March 25 Tuesday, PM In-Person Session:
@@ -33,8 +33,10 @@ Session Chair: Sita Sirisha Madugula (ORNL), Qianxiang Ai (MIT)
 ![ai4sobo (9)](https://github.com/user-attachments/assets/7e31e9c4-d665-417c-959a-8ac81c7a4ecf)
 ![ai4sobo (10)](https://github.com/user-attachments/assets/b348e90a-c419-49b5-b61c-deb98607dfe7)
 
-## Note: The above is the official ACS program. However there are the following changes:
+## Note: The above is the official ACS program. However there is the following change:
 ### The last talk (original scheduled for Prof. Daniel Reker) has been moved to Session 2. March 25 Tuesday, AM In-Person Session (please see above).
+
+
 
 # QR Code for this page:
 ![image](https://github.com/user-attachments/assets/d108dc94-60b5-4428-9ac2-baedb9b34759)
