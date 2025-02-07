@@ -33,6 +33,9 @@ Session Chair: Sita Sirisha Madugula (ORNL), Qianxiang Ai (MIT)
 ![ai4sobo (9)](https://github.com/user-attachments/assets/7e31e9c4-d665-417c-959a-8ac81c7a4ecf)
 ![ai4sobo (10)](https://github.com/user-attachments/assets/b348e90a-c419-49b5-b61c-deb98607dfe7)
 
+## Note: The above is the official ACS program. However there are the following changes:
+### The last talk (original scheduled for Prof. Daniel Reker) has been moved to Session 2. March 25 Tuesday, AM In-Person Session (please see above).
+
 # QR Code for this page:
 ![image](https://github.com/user-attachments/assets/d108dc94-60b5-4428-9ac2-baedb9b34759)
 # Our Mobile Page: https://bit.ly/m/aiacs
