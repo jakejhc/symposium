@@ -16,7 +16,7 @@ Session Chairs: Wook Shin (Vanderbilt), Miguel Fuentes-Cabrera (NorthEastern Uni
 ![ai4sobo (3)](https://github.com/user-attachments/assets/0e3137b2-00b1-4a64-9711-d1820627bfd4)
 
 ## Note: The above is the official ACS program. However there is the following change:
-### The third talk (original scheduled for Dr. Jeremy Smith) is now by Prof. Daniel Reker from Duke on "Machine learning for nanoparticle design".
+### The third talk (original scheduled for Dr. Jeremy Smith) is now in our virtual session (Mar 25).
 
 # 3. March 25 Tuesday, PM In-Person Session:
 Session Chairs: Zihao Ou  (UT  Dallas), Sita Sirisha Madugula (ORNL), Wook Shin (Vanderbilt)
@@ -33,8 +33,7 @@ Session Chair: Sita Sirisha Madugula (ORNL), Qianxiang Ai (MIT)
 ![ai4sobo (9)](https://github.com/user-attachments/assets/7e31e9c4-d665-417c-959a-8ac81c7a4ecf)
 ![ai4sobo (10)](https://github.com/user-attachments/assets/b348e90a-c419-49b5-b61c-deb98607dfe7)
 
-## Note: The above is the official ACS program. However there is the following change:
-### The last talk (original scheduled for Prof. Daniel Reker) has been moved to Session 2. March 25 Tuesday, AM In-Person Session (please see above).
+
 
 
 
