@@ -1,6 +1,8 @@
 # <font color='green'> AI ACS Symposium（https://bit.ly/aiacs)
 American Chemical Society meeting [2025](https://www.acs.org/meetings/acs-meetings/spring.html) March 23-27, San Diego, CA & Virtual (Sponsored by I&EC, PMSE, and POLY)
+The official ACS program is in Eastern Time:
 https://acs.digitellinc.com/live/34/page/1138?speakers=386313
+The following program is in Pacific Time:
 ![ai-banner](https://github.com/user-attachments/assets/eb20f117-5477-46d0-888d-78330932e663)
 ![sessions](https://github.com/user-attachments/assets/be77de08-f6c0-495e-8beb-928a63cb21c7)
 # 1. March 25 Tuesday, Virtual Session:
