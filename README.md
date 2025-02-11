@@ -9,7 +9,7 @@ Session Chairs: Jie Xu (ANL), Hanyu Wang (ORNL), Ngoc Nguyen (UIUC)
 
 ## Note: The above is the official ACS program. However there are the following changes:
 ### * The third talk (original scheduled for Prof. Huan Tao) is now by Dr. Jeremy Smith from ORNL on "AI and modeling in drug and Vaccine design".
-### * The break is now canceled. Instead, Prof Aram Amassian's talk on "Design of AI-guided materials acceleration platforms for emerging semiconductor applications" starts 11:30. All talks afterwards will have a 3 minute delay. 
+### * The break is now canceled. Instead, Prof Aram Amassian (NC State) will talk on "Design of AI-guided materials acceleration platforms for emerging semiconductor applications", starting at 11:30. All talks afterwards will have a 3 minute delay. 
 
 # 2. March 25 Tuesday, AM In-Person Session
 Session Chairs: Wook Shin (Vanderbilt), Miguel Fuentes-Cabrera (NorthEastern Univ.), Qianxiang Ai (MIT)
@@ -24,7 +24,7 @@ Session Chairs: Zihao Ou  (UT  Dallas), Sita Sirisha Madugula (ORNL), Wook Shin 
 ![ai4sobo (5)](https://github.com/user-attachments/assets/962aea1e-f36b-47ac-832b-fb42611e29ac)
 ![ai4sobo (6)](https://github.com/user-attachments/assets/8b328431-7856-4e3c-a3e0-af473ef4054a)
 ## Note: The above is the official ACS program. However there is the following change:
-### The second-to-last talk "Design of AI-guided materials acceleration platforms for emerging semiconductor applications" is now moved to our virtual session (March 25).
+### The second-to-last talk by Prof Aram Amassian (NC State) on "Design of AI-guided materials acceleration platforms for emerging semiconductor applications" is now moved to our virtual session (March 25).
 
 # 4. March 26 Wednesday, AM In-Person Session:
 Session Chairs: Yifei Jin (Univ. of Nevada-Reno), Hanyu Wang (ORNL), Zihao Ou (UT Dallas)
