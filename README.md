@@ -7,8 +7,9 @@ Session Chairs: Jie Xu (ANL), Hanyu Wang (ORNL), Ngoc Nguyen (UIUC)
 ![ai4sobo (1)](https://github.com/user-attachments/assets/1e7875e1-80e1-4e08-8bfc-81459e261586)
 ![ai4sobo (2)](https://github.com/user-attachments/assets/0885cdcb-c9cb-4eb1-bd4f-685d44a0b53c)
 
-## Note: The above is the official ACS program. However there is the following change:
-### The third talk (original scheduled for Prof. Huan Tao) is now by Dr. Jeremy Smith from ORNL on "AI and modeling in drug and Vaccine design".
+## Note: The above is the official ACS program. However there are the following changes:
+### * The third talk (original scheduled for Prof. Huan Tao) is now by Dr. Jeremy Smith from ORNL on "AI and modeling in drug and Vaccine design".
+### * The break is now canceled. Instead, Prof Aram Amassian's talk starts 11:30. All talks afterwards will have a 3 minute delay. 
 
 # 2. March 25 Tuesday, AM In-Person Session
 Session Chairs: Wook Shin (Vanderbilt), Miguel Fuentes-Cabrera (NorthEastern Univ.), Qianxiang Ai (MIT)
