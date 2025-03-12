@@ -27,6 +27,7 @@ Session Chairs: Zihao Ou  (UT  Dallas), Sita Sirisha Madugula (ORNL), Wook Shin 
 ![ai4sobo (6)](https://github.com/user-attachments/assets/8b328431-7856-4e3c-a3e0-af473ef4054a)
 ## Note: The above is the official ACS program. However there is the following change:
 ### The second-to-last talk by Prof Aram Amassian (NC State) on "Design of AI-guided materials acceleration platforms for emerging semiconductor applications" is now moved to our virtual session (March 25).
+### The third-to last talk was withdrawn. 
 
 # 4. March 26 Wednesday, AM In-Person Session:
 Session Chairs: Yifei Jin (Univ. of Nevada-Reno), Hanyu Wang (ORNL), Zihao Ou (UT Dallas)
