@@ -1,11 +1,12 @@
 # <font color='green'> AI ACS Symposium（https://bit.ly/aiacs)
-AI @ American Chemical Society meeting [2025](https://www.acs.org/meetings/acs-meetings/spring.html) March 23-27, San Diego, CA & Virtual (Sponsored by I&EC, PMSE, and POLY): 
-The official ACS [program](https://acs.digitellinc.com/live/34/page/1138?speakers=386313) is in EASTERN TIME !!!
+## AI @ American Chemical Society meeting [2025](https://www.acs.org/meetings/acs-meetings/spring.html) March 23-27, San Diego, CA & Virtual 
+Here is the official  [program](https://acs.digitellinc.com/live/34/page/1138?speakers=386313))
+## All time shown here is in EASTERN time !!!
 ![ai-banner](https://github.com/user-attachments/assets/eb20f117-5477-46d0-888d-78330932e663)
 
 # 1. March 25 Tuesday, Virtual Session:
 ## Session Chairs: Jie Xu (ANL), Jihua Chen (ORNL), Ngoc Nguyen (UIUC); 
-## 1:00 PM - 4:35 PM EDT; Tuesday, March 25, 2025; Room: Digital Session (Digital Meeting)
+## 1:00 PM - 4:35 PM EST; Tuesday, March 25, 2025; Room: Digital Session (Digital Meeting)
 
 1:00 PM-1:18 PM [Autonomous materials informatics for polymer materials development
 ](https://acs.digitellinc.com/live/34/session/554863)
@@ -18,7 +19,7 @@ The official ACS [program](https://acs.digitellinc.com/live/34/page/1138?speaker
 
 2:12 PM-2:30 PM [Direct Sound Printing: 3D printing with ultrasound and holograms and its applications in non-invasive surgery](https://acs.digitellinc.com/live/34/session/554867)
 
-2:30 PM-2:45 PM [Design of AI-guided materials acceleration platforms for emerging semiconductor applications](https://acs.digitellinc.com/live/34/session/555598)) *****
+2:30 PM-2:45 PM [Design of AI-guided materials acceleration platforms for emerging semiconductor applications](https://acs.digitellinc.com/live/34/session/555598) *****
 
 2:45 PM-3:03 PM [Use of predictive models in advancing biomarkers for precision oncology](https://acs.digitellinc.com/live/34/session/554869)
 
