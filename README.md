@@ -7,7 +7,7 @@ Sponsored by PMSE, POLY, and I&EC divisions of American Chemical Society
 
 # 1. Virtual Session --  March 25 Tuesday
 ### Session Chairs: Jie Xu (ANL), Jihua Chen (ORNL), Ngoc Nguyen (UIUC); 
-## 1:00 PM - 4:35 PM EST; Tuesday, March 25, 2025; Room: Digital Session (Digital Meeting)
+## 1:00 PM - 4:35 PM EST; Tuesday, March 25, 2025
 
 1:00 PM-1:18 PM [Autonomous materials informatics for polymer materials development
 ](https://acs.digitellinc.com/live/34/session/554863)
@@ -38,7 +38,7 @@ Sponsored by PMSE, POLY, and I&EC divisions of American Chemical Society
 
 # 2. In-Person Session -- March 25 Tuesday AM 
 ### Session Chairs: Wook Shin (Vanderbilt), Miguel Fuentes-Cabrera (NorthEastern Univ.), Qianxiang Ai (MIT)
-## 11:00 AM - 2:15 PM EDT; Tuesday, March 25, 2025; Room: Room 24B (San Diego Convention Center)
+## 11:00 AM - 2:15 PM EDT; Tuesday March 25, Room 24B (San Diego Convention Center)
 
 11:00 AM-11:20 AM [Atom-pairwise hybrid neural network / physics models for protein-ligand interactions](https://acs.digitellinc.com/live/34/session/555612)
 
@@ -63,7 +63,7 @@ Sponsored by PMSE, POLY, and I&EC divisions of American Chemical Society
 
 # 3. In-Person Session --- March 25 Tuesday PM 
 ### Session Chairs: Zihao Ou  (UT  Dallas), Sita Sirisha Madugula (ORNL), Wook Shin (Vanderbilt)
-## 5:00 PM - 8:15 PM EDT; Tuesday, March 25, 2025; Room: Room 24B (San Diego Convention Center)
+## 5:00 PM - 8:15 PM EDT; Tuesday March 25, Room 24B (San Diego Convention Center)
 
 5:00 PM-5:20 PM [Automated analysis of time-dependent specular neutron reflectometry from thin films of ionic polymers using neural networks](https://acs.digitellinc.com/live/34/session/555590)
 
@@ -88,7 +88,7 @@ Sponsored by PMSE, POLY, and I&EC divisions of American Chemical Society
 
 # 4. In-Person Session --- March 26 Wednesday AM 
 ### Session Chairs: Yifei Jin (Univ. of Nevada-Reno), Hanyu Wang (ORNL), Zihao Ou (UT Dallas)
-## 11:00 AM - 3:00 PM EDT; Wednesday, March 26, 2025; Room: Room 29C (San Diego Convention Center)
+## 11:00 AM - 3:00 PM EDT; Wednesday March 26, Room 29C (San Diego Convention Center)
 11:00 AM-11:02 AM Opening Remarks By Prof Gobet Advincula
 
 11:02 AM-11:19 AM [Digital twin for Chemical Sciences (DTCs): A blueprint for digitizing chemical characterization](https://acs.digitellinc.com/live/34/session/546306)
@@ -122,7 +122,7 @@ Sponsored by PMSE, POLY, and I&EC divisions of American Chemical Society
 
 # 5. In-Person Session ---  March 26 Wednesday PM
 ### Session Chair: Sita Sirisha Madugula (ORNL), Qianxiang Ai (MIT)
-## 5:00 PM - 8:00 PM EDT; Wednesday, March 26, 2025; Room: Room 29C (San Diego Convention Center)
+## 5:00 PM - 8:00 PM EDT; Wednesday March 26, Room 29C (San Diego Convention Center)
 
 5:00 PM-5:05 PM Opening remarks
 
