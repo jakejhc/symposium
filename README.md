@@ -4,24 +4,20 @@ The official ACS [program](https://acs.digitellinc.com/live/34/page/1138?speaker
 ![ai-banner](https://github.com/user-attachments/assets/eb20f117-5477-46d0-888d-78330932e663)
 
 # 1. March 25 Tuesday, Virtual Session:
-Session Chairs: Jie Xu (ANL), Jihua Chen (ORNL), Ngoc Nguyen (UIUC)
+## Session Chairs: Jie Xu (ANL), Jihua Chen (ORNL), Ngoc Nguyen (UIUC); 
+## 1:00 PM - 4:35 PM EDT; Tuesday, March 25, 2025; Room: Digital Session (Digital Meeting)
 
-1:00 PM - 4:35 PM EDT
-Tuesday, March 25, 2025
-Room: Digital Session (Digital Meeting)
-
-This session has 12 presentations:
 1:00 PM-1:18 PM Autonomous materials informatics for polymer materials development
 
 1:18 PM-1:36 PM Practical application of machine learning requires rethinking small data
 
-1:36 PM-1:54 PM  "AI and modeling in drug and Vaccine design" (by Dr. Jeremy Smith from ORNL) *****
+### 1:36 PM-1:54 PM  "AI and modeling in drug and Vaccine design" (by Dr. Jeremy Smith from ORNL) *****
 
 1:54 PM-2:12 PM Engineering defect vibrations to enhance interfacial thermal transport in polymer composites
 
 2:12 PM-2:30 PM Direct Sound Printing: 3D printing with ultrasound and holograms and its applications in non-invasive surgery
 
-2:30 PM-2:45 PM "Design of AI-guided materials acceleration platforms for emerging semiconductor applications" (by Prof Aram Amassian from NC State) *****
+### 2:30 PM-2:45 PM "Design of AI-guided materials acceleration platforms for emerging semiconductor applications" (by Prof Aram Amassian from NC State) *****
 
 2:45 PM-3:03 PM Use of predictive models in advancing biomarkers for precision oncology
 
@@ -35,7 +31,7 @@ This session has 12 presentations:
 
 4:15 PM-4:33 PM Machine learning to predict designer solvent properties for manufacturing and healthcare applications
 
-***** These talks are different from the original ACS schedules
+### ***** These talks are different from the original ACS schedules
 
 # 2. March 25 Tuesday, AM In-Person Session
 Session Chairs: Wook Shin (Vanderbilt), Miguel Fuentes-Cabrera (NorthEastern Univ.), Qianxiang Ai (MIT)
