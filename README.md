@@ -7,9 +7,9 @@ The official ACS [program](https://acs.digitellinc.com/live/34/page/1138?speaker
 ## Session Chairs: Jie Xu (ANL), Jihua Chen (ORNL), Ngoc Nguyen (UIUC); 
 ## 1:00 PM - 4:35 PM EDT; Tuesday, March 25, 2025; Room: Digital Session (Digital Meeting)
 
-1:00 PM-1:18 PM Autonomous materials informatics for polymer materials development
-
-1:18 PM-1:36 PM Practical application of machine learning requires rethinking small data
+1:00 PM-1:18 PM [Autonomous materials informatics for polymer materials development
+]([url](https://acs.digitellinc.com/live/34/session/554863))
+1:18 PM-1:36 PM [Practical application of machine learning requires rethinking small data]([url](https://acs.digitellinc.com/live/34/session/554864))
 
 ### 1:36 PM-1:54 PM  "AI and modeling in drug and Vaccine design" (by Dr. Jeremy Smith from ORNL) *****
 
