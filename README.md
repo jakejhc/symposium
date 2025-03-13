@@ -8,7 +8,7 @@ Sponsored by PMSE, POLY, and I&EC divisions of American Chemical Society
 # 1. Virtual Session --  March 25 Tuesday
 ### Session Chairs: Jie Xu (ANL), Jihua Chen (ORNL), Ngoc Nguyen (UIUC); 
 ## 1:00 PM - 4:35 PM EST; Tuesday, March 25, 2025
-
+Please use your own ACS login to sign in and attend online sessions through [program tab> my itinerary](https://acs.digitellinc.com/live/34/page/1159)
 1:00 PM-1:18 PM [Autonomous materials informatics for polymer materials development
 ](https://acs.digitellinc.com/live/34/session/554863)
 
