@@ -40,50 +40,50 @@ This is the most updated program. Changes are made to the original ACS [program]
 ## Session Chairs: Wook Shin (Vanderbilt), Miguel Fuentes-Cabrera (NorthEastern Univ.), Qianxiang Ai (MIT)
 ## 11:00 AM - 2:15 PM EDT; Tuesday, March 25, 2025; Room: Room 24B (San Diego Convention Center)
 
-11:00 AM-11:20 AM Atom-pairwise hybrid neural network / physics models for protein-ligand interactions
+11:00 AM-11:20 AM [Atom-pairwise hybrid neural network / physics models for protein-ligand interactions]()
 
-11:20 AM-11:40 AM AI/ML-driven disease expansion, target selection and candidate selection in drug discovery
+11:20 AM-11:40 AM [AI/ML-driven disease expansion, target selection and candidate selection in drug discovery]()
 
-11:40 AM-12:00 PM (Moved to Virtual Session: AI and modeling in drug and vaccine design)
+11:40 AM-12:00 PM [(Moved to Virtual Session: AI and modeling in drug and vaccine design)]()
 
-12:00 PM-12:20 PM Computational analysis workflows for biological imaging data: data standardization, continual model training, and data storage and sharing
+12:00 PM-12:20 PM [Computational analysis workflows for biological imaging data: data standardization, continual model training, and data storage and sharing]()
 
-12:20 PM-12:40 PM Machine-learning enhanced photonics engineering for optical transparency in biological tissues
+12:20 PM-12:40 PM [Machine-learning enhanced photonics engineering for optical transparency in biological tissues]()
 
 12:40 PM-12:55 PM Break
 
-12:55 PM-1:15 PM Advanced modelling techniques for the optimisation of chromatographic separation processes
+12:55 PM-1:15 PM [Advanced modelling techniques for the optimisation of chromatographic separation processes]()
 
-1:15 PM-1:35 PM Contrastive learning for drug discovery
+1:15 PM-1:35 PM [Contrastive learning for drug discovery]()
 
-1:35 PM-1:55 PM Identifying novel peptide-based therapeutics through AI and simulations
+1:35 PM-1:55 PM [Identifying novel peptide-based therapeutics through AI and simulations]()
 
-1:55 PM-2:15 PM Role of AI and machine learning in drug discovery and healthcare
+1:55 PM-2:15 PM [Role of AI and machine learning in drug discovery and healthcare]()
 
 
 # 3. In-Person Session --- March 25 Tuesday PM 
 ## Session Chairs: Zihao Ou  (UT  Dallas), Sita Sirisha Madugula (ORNL), Wook Shin (Vanderbilt)
 ## 5:00 PM - 8:15 PM EDT; Tuesday, March 25, 2025; Room: Room 24B (San Diego Convention Center)
 
-5:00 PM-5:20 PM Automated analysis of time-dependent specular neutron reflectometry from thin films of ionic polymers using neural networks
+5:00 PM-5:20 PM [Automated analysis of time-dependent specular neutron reflectometry from thin films of ionic polymers using neural networks]()
 
-5:20 PM-5:40 PM Smart platform for solution processing electronic polymer thin films
+5:20 PM-5:40 PM [Smart platform for solution processing electronic polymer thin films]()
 
-5:40 PM-6:00 PM Harnessing DfT and machine learning for accurate optical gap prediction in conjugated polymers
+5:40 PM-6:00 PM [Harnessing DfT and machine learning for accurate optical gap prediction in conjugated polymers]()
 
-6:00 PM-6:20 PM Advanced manufacturing of wearable sensors for accessible, personalized health monitoring
+6:00 PM-6:20 PM [Advanced manufacturing of wearable sensors for accessible, personalized health monitoring]()
 
-6:20 PM-6:40 PM Quest to replace Ir as a catalyst for the oxygen evolution reaction
+6:20 PM-6:40 PM [Quest to replace Ir as a catalyst for the oxygen evolution reaction]()
 
 6:40 PM-6:55 PM Break
 
-6:55 PM-7:15 PM Extreme-scale multi-fidelity computational active learning paradigm to realize autonomous synthesis of 2D layered thin-film systems
+6:55 PM-7:15 PM [Extreme-scale multi-fidelity computational active learning paradigm to realize autonomous synthesis of 2D layered thin-film systems]()
 
 7:15 PM-7:35 PM Challenges and opportunities in building an autonomous solid state chemistry laboratory (Withdrawn ?)
 
-7:35 PM-7:55 PM (Moved to Virtual Session: Design of AI-guided materials acceleration platforms for emerging semiconductor applications)
+7:35 PM-7:55 PM [(Moved to Virtual Session: Design of AI-guided materials acceleration platforms for emerging semiconductor applications)]()
 
-7:55 PM-8:15 PM Multiscale modeling and data-driven material by design for multifunctional polymers
+7:55 PM-8:15 PM [Multiscale modeling and data-driven material by design for multifunctional polymers]()
 
 
 # 4. In-Person Session --- March 26 Wednesday AM 
@@ -91,33 +91,33 @@ This is the most updated program. Changes are made to the original ACS [program]
 ## 11:00 AM - 3:00 PM EDT; Wednesday, March 26, 2025; Room: Room 29C (San Diego Convention Center)
 11:00 AM-11:02 AM Opening Remarks By Prof Gobet Advincula
 
-11:02 AM-11:19 AM Digital twin for Chemical Sciences (DTCs): A blueprint for digitizing chemical characterization
+11:02 AM-11:19 AM [Digital twin for Chemical Sciences (DTCs): A blueprint for digitizing chemical characterization]()
 
-11:19 AM-11:36 AM Towards predictive synthesis with atomistic simulations and robust machine learning
+11:19 AM-11:36 AM [Towards predictive synthesis with atomistic simulations and robust machine learning]()
 
-11:36 AM-11:53 AM Navigation of digital chemical spaces
+11:36 AM-11:53 AM [Navigation of digital chemical spaces]()
 
-11:53 AM-12:10 PM AI/ML optimization workflows of materials properties and manufacturing: importance of autonomous laboratories and data mining
+11:53 AM-12:10 PM [AI/ML optimization workflows of materials properties and manufacturing: importance of autonomous laboratories and data mining]()
 
-12:10 PM-12:27 PM Functional monomer design via the open macromolecular genome
+12:10 PM-12:27 PM [Functional monomer design via the open macromolecular genome]()
 
-12:27 PM-12:44 PM Embedded 3D bioprinting: From material design to method development
+12:27 PM-12:44 PM [Embedded 3D bioprinting: From material design to method development]()
 
-12:44 PM-1:01 PM Application of Noise2Noise algorithm for high-throughput AFM imaging of polymer membranes
+12:44 PM-1:01 PM [Application of Noise2Noise algorithm for high-throughput AFM imaging of polymer membranes]()
 
 1:01 PM-1:16 PM Break
 
-1:16 PM-1:33 PM Labs of the future: Creating a systems of systems ecosystem for cross-domain scientific autonomous workflows
+1:16 PM-1:33 PM [Labs of the future: Creating a systems of systems ecosystem for cross-domain scientific autonomous workflows]()
 
-1:33 PM-1:50 PM Uncertainty characterization of foundation models for reliable applications in materials and Chemistry
+1:33 PM-1:50 PM [Uncertainty characterization of foundation models for reliable applications in materials and Chemistry]()
 
-1:50 PM-2:07 PM Data-driven design of reactive technologies: Case studies in energy storage
+1:50 PM-2:07 PM [Data-driven design of reactive technologies: Case studies in energy storage]()
 
-2:07 PM-2:24 PM Opportunities for overcoming the “valley of death” in developing new functional materials
+2:07 PM-2:24 PM [Opportunities for overcoming the “valley of death” in developing new functional materials]()
 
-2:24 PM-2:41 PM Modeling nonequilibrium reactive systems with REACTER
+2:24 PM-2:41 PM [Modeling nonequilibrium reactive systems with REACTER]()
 
-2:41 PM-2:58 PM Polymer informatics with large language models
+2:41 PM-2:58 PM [Polymer informatics with large language models]()
 
 
 # 5. In-Person Session ---  March 26 Wednesday PM
@@ -126,23 +126,23 @@ This is the most updated program. Changes are made to the original ACS [program]
 
 5:00 PM-5:05 PM Opening remarks
 
-5:05 PM-5:25 PM Flow visualization and mixing enhancement in Y-junction microchannel with 3D acoustic streaming flow patterns induced by trapezoidal triangular structure using high-viscous liquids
+5:05 PM-5:25 PM [Flow visualization and mixing enhancement in Y-junction microchannel with 3D acoustic streaming flow patterns induced by trapezoidal triangular structure using high-viscous liquids](https://acs.digitellinc.com/live/34/session/555602)
 
-5:25 PM-5:45 PM Designing conjugated polymers with narrow band gap for optoelectronic applications
+5:25 PM-5:45 PM [Designing conjugated polymers with narrow band gap for optoelectronic applications](https://acs.digitellinc.com/live/34/session/555603)
 
-5:45 PM-6:05 PM Materials informatics for structure-property pelationships (MISPR) for electrolyte and electrode-electrolyte interfaces
+5:45 PM-6:05 PM [Materials informatics for structure-property pelationships (MISPR) for electrolyte and electrode-electrolyte interfaces](https://acs.digitellinc.com/live/34/session/555604)
 
-6:05 PM-6:25 PM Data-driven approaches to engineer bidomain enzymes
+6:05 PM-6:25 PM [Data-driven approaches to engineer bidomain enzymes](https://acs.digitellinc.com/live/34/session/555609)
 
 6:25 PM-6:40 PM Break
 
-6:40 PM-7:00 PM ACEG-GNN: Can graph neural network learn to explain activity cliffs?
+6:40 PM-7:00 PM [ACEG-GNN: Can graph neural network learn to explain activity cliffs?](https://acs.digitellinc.com/live/34/session/555607)
 
-7:00 PM-7:20 PM Schedule optimization and simulation for chemical library synthesis
+7:00 PM-7:20 PM [Schedule optimization and simulation for chemical library synthesis](https://acs.digitellinc.com/live/34/session/555608)
 
-7:20 PM-7:40 PM Towards autonomous laboratory workflow for copolymerization: tools, models, ML and LLM
+7:20 PM-7:40 PM [Towards autonomous laboratory workflow for copolymerization: tools, models, ML and LLM](https://acs.digitellinc.com/live/34/session/555605)
 
-7:40 PM-8:00 PM Machine learning for nanoparticle design
+7:40 PM-8:00 PM [Machine learning for nanoparticle design](https://acs.digitellinc.com/live/34/session/555610)
 
 
 
