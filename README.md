@@ -2,11 +2,11 @@
 ### [2025](https://www.acs.org/meetings/acs-meetings/spring.html) March 23-27, San Diego, CA & Virtual 
 This is the most updated program. Changes are made to the original ACS [program](https://acs.digitellinc.com/live/34/page/1138?speakers=386313)
 ## --- Schedules are in EASTERN time !!! ---
-### Sponsored by PMSE, POLY, &I&EC divisions of American Chemical Society
+Sponsored by PMSE, POLY, &I&EC divisions of American Chemical Society
 ![ai-banner](https://github.com/user-attachments/assets/eb20f117-5477-46d0-888d-78330932e663)
 
 # 1. Virtual Session --  March 25 Tuesday
-## Session Chairs: Jie Xu (ANL), Jihua Chen (ORNL), Ngoc Nguyen (UIUC); 
+### Session Chairs: Jie Xu (ANL), Jihua Chen (ORNL), Ngoc Nguyen (UIUC); 
 ## 1:00 PM - 4:35 PM EST; Tuesday, March 25, 2025; Room: Digital Session (Digital Meeting)
 
 1:00 PM-1:18 PM [Autonomous materials informatics for polymer materials development
@@ -34,10 +34,10 @@ This is the most updated program. Changes are made to the original ACS [program]
 
 4:15 PM-4:33 PM [Machine learning to predict designer solvent properties for manufacturing and healthcare applications](https://acs.digitellinc.com/live/34/session/554874)
 
-### ***** These talks are different from the original ACS schedules
+***** These talks are different from the original ACS schedules
 
 # 2. In-Person Session -- March 25 Tuesday AM 
-## Session Chairs: Wook Shin (Vanderbilt), Miguel Fuentes-Cabrera (NorthEastern Univ.), Qianxiang Ai (MIT)
+### Session Chairs: Wook Shin (Vanderbilt), Miguel Fuentes-Cabrera (NorthEastern Univ.), Qianxiang Ai (MIT)
 ## 11:00 AM - 2:15 PM EDT; Tuesday, March 25, 2025; Room: Room 24B (San Diego Convention Center)
 
 11:00 AM-11:20 AM [Atom-pairwise hybrid neural network / physics models for protein-ligand interactions](https://acs.digitellinc.com/live/34/session/555612)
@@ -62,7 +62,7 @@ This is the most updated program. Changes are made to the original ACS [program]
 
 
 # 3. In-Person Session --- March 25 Tuesday PM 
-## Session Chairs: Zihao Ou  (UT  Dallas), Sita Sirisha Madugula (ORNL), Wook Shin (Vanderbilt)
+### Session Chairs: Zihao Ou  (UT  Dallas), Sita Sirisha Madugula (ORNL), Wook Shin (Vanderbilt)
 ## 5:00 PM - 8:15 PM EDT; Tuesday, March 25, 2025; Room: Room 24B (San Diego Convention Center)
 
 5:00 PM-5:20 PM [Automated analysis of time-dependent specular neutron reflectometry from thin films of ionic polymers using neural networks](https://acs.digitellinc.com/live/34/session/555590)
@@ -87,7 +87,7 @@ This is the most updated program. Changes are made to the original ACS [program]
 
 
 # 4. In-Person Session --- March 26 Wednesday AM 
-## Session Chairs: Yifei Jin (Univ. of Nevada-Reno), Hanyu Wang (ORNL), Zihao Ou (UT Dallas)
+### Session Chairs: Yifei Jin (Univ. of Nevada-Reno), Hanyu Wang (ORNL), Zihao Ou (UT Dallas)
 ## 11:00 AM - 3:00 PM EDT; Wednesday, March 26, 2025; Room: Room 29C (San Diego Convention Center)
 11:00 AM-11:02 AM Opening Remarks By Prof Gobet Advincula
 
@@ -121,7 +121,7 @@ This is the most updated program. Changes are made to the original ACS [program]
 
 
 # 5. In-Person Session ---  March 26 Wednesday PM
-## Session Chair: Sita Sirisha Madugula (ORNL), Qianxiang Ai (MIT)
+### Session Chair: Sita Sirisha Madugula (ORNL), Qianxiang Ai (MIT)
 ## 5:00 PM - 8:00 PM EDT; Wednesday, March 26, 2025; Room: Room 29C (San Diego Convention Center)
 
 5:00 PM-5:05 PM Opening remarks
