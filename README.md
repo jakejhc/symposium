@@ -7,7 +7,8 @@ Sponsored by PMSE, POLY, and I&EC divisions of American Chemical Society
 
 # 1. Virtual Session --  March 25 Tuesday
 Instruction: 
-Please use your own ACS login to sign in and attend online sessions through [ACS meeting site> program tab> my itinerary](https://acs.digitellinc.com/live/34/page/1159)
+Please use your own ACS login to sign in and attend online sessions through [ACS meeting site> program tab> my itinerary](https://acs.digitellinc.com/live/34/page/1159).
+
 The below is from ACS:
 "Each session opens 10 minutes prior to the start time.
 Access virtual and live streamed session(s) via My Itinerary in the Full Schedule & My Itinerary tab. Please know that you will need to be registered and be logged into the virtual platform to access these sessions."
