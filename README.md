@@ -16,21 +16,21 @@ The official ACS [program](https://acs.digitellinc.com/live/34/page/1138?speaker
 
 1:54 PM-2:12 PM [Engineering defect vibrations to enhance interfacial thermal transport in polymer composites](https://acs.digitellinc.com/live/34/session/554866) 
 
-2:12 PM-2:30 PM Direct Sound Printing: 3D printing with ultrasound and holograms and its applications in non-invasive surgery
+2:12 PM-2:30 PM [Direct Sound Printing: 3D printing with ultrasound and holograms and its applications in non-invasive surgery](https://acs.digitellinc.com/live/34/session/554867)
 
 2:30 PM-2:45 PM [Design of AI-guided materials acceleration platforms for emerging semiconductor applications](https://acs.digitellinc.com/live/34/session/555598)) *****
 
-2:45 PM-3:03 PM Use of predictive models in advancing biomarkers for precision oncology
+2:45 PM-3:03 PM [Use of predictive models in advancing biomarkers for precision oncology](https://acs.digitellinc.com/live/34/session/554869)
 
-3:03 PM-3:21 PM AI for antibiotic discovery
+3:03 PM-3:21 PM [AI for antibiotic discovery](https://acs.digitellinc.com/live/34/session/554870)
 
-3:21 PM-3:39 PM SMART (synthetic materials and rapid therapeutics): Revolutionizing healthcare and engineering chemistry with AI and data analytics
+3:21 PM-3:39 PM [SMART (synthetic materials and rapid therapeutics): Revolutionizing healthcare and engineering chemistry with AI and data analytics](https://acs.digitellinc.com/live/34/session/554871)
 
-3:39 PM-3:57 PM Using data science to shed light on zeolite nanoporous structures and how they form
+3:39 PM-3:57 PM [Using data science to shed light on zeolite nanoporous structures and how they form](https://acs.digitellinc.com/live/34/session/554872)
 
 3:57 PM-4:15 PM Withdrawn
 
-4:15 PM-4:33 PM Machine learning to predict designer solvent properties for manufacturing and healthcare applications
+4:15 PM-4:33 PM [Machine learning to predict designer solvent properties for manufacturing and healthcare applications](https://acs.digitellinc.com/live/34/session/554874)
 
 ### ***** These talks are different from the original ACS schedules
 
