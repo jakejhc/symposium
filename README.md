@@ -2,11 +2,9 @@
 AI @ American Chemical Society meeting [2025](https://www.acs.org/meetings/acs-meetings/spring.html) March 23-27, San Diego, CA & Virtual (Sponsored by I&EC, PMSE, and POLY): 
 The official ACS [program](https://acs.digitellinc.com/live/34/page/1138?speakers=386313) is in EASTERN TIME !!!
 ![ai-banner](https://github.com/user-attachments/assets/eb20f117-5477-46d0-888d-78330932e663)
-![sessions](https://github.com/user-attachments/assets/be77de08-f6c0-495e-8beb-928a63cb21c7)
+
 # 1. March 25 Tuesday, Virtual Session:
 Session Chairs: Jie Xu (ANL), Jihua Chen (ORNL), Ngoc Nguyen (UIUC)
-![ai4sobo (1)](https://github.com/user-attachments/assets/1e7875e1-80e1-4e08-8bfc-81459e261586)
-![ai4sobo (2)](https://github.com/user-attachments/assets/0885cdcb-c9cb-4eb1-bd4f-685d44a0b53c)
 
 1:00 PM - 4:35 PM EDT
 Tuesday, March 25, 2025
@@ -14,16 +12,27 @@ Room: Digital Session (Digital Meeting)
 
 This session has 12 presentations:
 1:00 PM-1:18 PM Autonomous materials informatics for polymer materials development
+
 1:18 PM-1:36 PM Practical application of machine learning requires rethinking small data
+
 1:36 PM-1:54 PM  "AI and modeling in drug and Vaccine design" (by Dr. Jeremy Smith from ORNL) *****
+
 1:54 PM-2:12 PM Engineering defect vibrations to enhance interfacial thermal transport in polymer composites
+
 2:12 PM-2:30 PM Direct Sound Printing: 3D printing with ultrasound and holograms and its applications in non-invasive surgery
+
 2:30 PM-2:45 PM "Design of AI-guided materials acceleration platforms for emerging semiconductor applications" (by Prof Aram Amassian from NC State) *****
+
 2:45 PM-3:03 PM Use of predictive models in advancing biomarkers for precision oncology
+
 3:03 PM-3:21 PM AI for antibiotic discovery
+
 3:21 PM-3:39 PM SMART (synthetic materials and rapid therapeutics): Revolutionizing healthcare and engineering chemistry with AI and data analytics
+
 3:39 PM-3:57 PM Using data science to shed light on zeolite nanoporous structures and how they form
+
 3:57 PM-4:15 PM Withdrawn
+
 4:15 PM-4:33 PM Machine learning to predict designer solvent properties for manufacturing and healthcare applications
 
 ***** These talks are different from the original ACS schedules
