@@ -37,11 +37,8 @@ This is the most updated program. Changes are made to the original ACS [program]
 ### ***** These talks are different from the original ACS schedules
 
 # 2. In-Person Session -- March 25 Tuesday AM 
-Session Chairs: Wook Shin (Vanderbilt), Miguel Fuentes-Cabrera (NorthEastern Univ.), Qianxiang Ai (MIT)
-
-11:00 AM - 2:15 PM EDT
-Tuesday, March 25, 2025
-Room: Room 24B (San Diego Convention Center)
+## Session Chairs: Wook Shin (Vanderbilt), Miguel Fuentes-Cabrera (NorthEastern Univ.), Qianxiang Ai (MIT)
+## 11:00 AM - 2:15 PM EDT; Tuesday, March 25, 2025; Room: Room 24B (San Diego Convention Center)
 
 11:00 AM-11:20 AM Atom-pairwise hybrid neural network / physics models for protein-ligand interactions
 
@@ -64,13 +61,9 @@ Room: Room 24B (San Diego Convention Center)
 1:55 PM-2:15 PM Role of AI and machine learning in drug discovery and healthcare
 
 
-
 # 3. In-Person Session --- March 25 Tuesday PM 
-Session Chairs: Zihao Ou  (UT  Dallas), Sita Sirisha Madugula (ORNL), Wook Shin (Vanderbilt)
-
-5:00 PM - 8:15 PM EDT
-Tuesday, March 25, 2025
-Room: Room 24B (San Diego Convention Center)
+## Session Chairs: Zihao Ou  (UT  Dallas), Sita Sirisha Madugula (ORNL), Wook Shin (Vanderbilt)
+## 5:00 PM - 8:15 PM EDT; Tuesday, March 25, 2025; Room: Room 24B (San Diego Convention Center)
 
 5:00 PM-5:20 PM Automated analysis of time-dependent specular neutron reflectometry from thin films of ionic polymers using neural networks
 
@@ -93,16 +86,63 @@ Room: Room 24B (San Diego Convention Center)
 7:55 PM-8:15 PM Multiscale modeling and data-driven material by design for multifunctional polymers
 
 
-# 4. March 26 Wednesday, AM In-Person Session:
-Session Chairs: Yifei Jin (Univ. of Nevada-Reno), Hanyu Wang (ORNL), Zihao Ou (UT Dallas)
-![ai4sobo (11)](https://github.com/user-attachments/assets/e24ba524-f464-4f05-a114-a744f62b1564)
-![ai4sobo (8)](https://github.com/user-attachments/assets/eead420e-1c30-47b0-9214-649f597b27de)
+# 4. In-Person Session --- March 26 Wednesday AM 
+## Session Chairs: Yifei Jin (Univ. of Nevada-Reno), Hanyu Wang (ORNL), Zihao Ou (UT Dallas)
+## 11:00 AM - 3:00 PM EDT; Wednesday, March 26, 2025; Room: Room 29C (San Diego Convention Center)
+11:00 AM-11:02 AM Opening Remarks By Prof Gobet Advincula
 
-# 5. March 26 Wednesday, PM In-Person Session:
-Session Chair: Sita Sirisha Madugula (ORNL), Qianxiang Ai (MIT)
-![ai4sobo (9)](https://github.com/user-attachments/assets/7e31e9c4-d665-417c-959a-8ac81c7a4ecf)
-![ai4sobo (10)](https://github.com/user-attachments/assets/b348e90a-c419-49b5-b61c-deb98607dfe7)
+11:02 AM-11:19 AM Digital twin for Chemical Sciences (DTCs): A blueprint for digitizing chemical characterization
 
+11:19 AM-11:36 AM Towards predictive synthesis with atomistic simulations and robust machine learning
+
+11:36 AM-11:53 AM Navigation of digital chemical spaces
+
+11:53 AM-12:10 PM AI/ML optimization workflows of materials properties and manufacturing: importance of autonomous laboratories and data mining
+
+12:10 PM-12:27 PM Functional monomer design via the open macromolecular genome
+
+12:27 PM-12:44 PM Embedded 3D bioprinting: From material design to method development
+
+12:44 PM-1:01 PM Application of Noise2Noise algorithm for high-throughput AFM imaging of polymer membranes
+
+1:01 PM-1:16 PM Break
+
+1:16 PM-1:33 PM Labs of the future: Creating a systems of systems ecosystem for cross-domain scientific autonomous workflows
+
+1:33 PM-1:50 PM Uncertainty characterization of foundation models for reliable applications in materials and Chemistry
+
+1:50 PM-2:07 PM Data-driven design of reactive technologies: Case studies in energy storage
+
+2:07 PM-2:24 PM Opportunities for overcoming the “valley of death” in developing new functional materials
+
+2:24 PM-2:41 PM Modeling nonequilibrium reactive systems with REACTER
+
+2:41 PM-2:58 PM Polymer informatics with large language models
+
+
+# 5. In-Person Session ---  March 26 Wednesday PM
+## Session Chair: Sita Sirisha Madugula (ORNL), Qianxiang Ai (MIT)
+## 5:00 PM - 8:00 PM EDT; Wednesday, March 26, 2025; Room: Room 29C (San Diego Convention Center)
+
+5:00 PM-5:05 PM Opening remarks
+
+5:05 PM-5:25 PM Flow visualization and mixing enhancement in Y-junction microchannel with 3D acoustic streaming flow patterns induced by trapezoidal triangular structure using high-viscous liquids
+
+5:25 PM-5:45 PM Designing conjugated polymers with narrow band gap for optoelectronic applications
+
+5:45 PM-6:05 PM Materials informatics for structure-property pelationships (MISPR) for electrolyte and electrode-electrolyte interfaces
+
+6:05 PM-6:25 PM Data-driven approaches to engineer bidomain enzymes
+
+6:25 PM-6:40 PM Break
+
+6:40 PM-7:00 PM ACEG-GNN: Can graph neural network learn to explain activity cliffs?
+
+7:00 PM-7:20 PM Schedule optimization and simulation for chemical library synthesis
+
+7:20 PM-7:40 PM Towards autonomous laboratory workflow for copolymerization: tools, models, ML and LLM
+
+7:40 PM-8:00 PM Machine learning for nanoparticle design
 
 
 
