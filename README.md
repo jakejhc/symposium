@@ -40,50 +40,50 @@ This is the most updated program. Changes are made to the original ACS [program]
 ## Session Chairs: Wook Shin (Vanderbilt), Miguel Fuentes-Cabrera (NorthEastern Univ.), Qianxiang Ai (MIT)
 ## 11:00 AM - 2:15 PM EDT; Tuesday, March 25, 2025; Room: Room 24B (San Diego Convention Center)
 
-11:00 AM-11:20 AM [Atom-pairwise hybrid neural network / physics models for protein-ligand interactions]()
+11:00 AM-11:20 AM [Atom-pairwise hybrid neural network / physics models for protein-ligand interactions](https://acs.digitellinc.com/live/34/session/555612)
 
-11:20 AM-11:40 AM [AI/ML-driven disease expansion, target selection and candidate selection in drug discovery]()
+11:20 AM-11:40 AM [AI/ML-driven disease expansion, target selection and candidate selection in drug discovery](https://acs.digitellinc.com/live/34/session/555613)
 
-11:40 AM-12:00 PM [(Moved to Virtual Session: AI and modeling in drug and vaccine design)]()
+11:40 AM-12:00 PM (Moved to Virtual Session: AI and modeling in drug and vaccine design)
 
-12:00 PM-12:20 PM [Computational analysis workflows for biological imaging data: data standardization, continual model training, and data storage and sharing]()
+12:00 PM-12:20 PM [Computational analysis workflows for biological imaging data: data standardization, continual model training, and data storage and sharing](https://acs.digitellinc.com/live/34/session/555615)
 
-12:20 PM-12:40 PM [Machine-learning enhanced photonics engineering for optical transparency in biological tissues]()
+12:20 PM-12:40 PM [Machine-learning enhanced photonics engineering for optical transparency in biological tissues](https://acs.digitellinc.com/live/34/session/555616)
 
 12:40 PM-12:55 PM Break
 
-12:55 PM-1:15 PM [Advanced modelling techniques for the optimisation of chromatographic separation processes]()
+12:55 PM-1:15 PM [Advanced modelling techniques for the optimisation of chromatographic separation processes](https://acs.digitellinc.com/live/34/session/555618)
 
-1:15 PM-1:35 PM [Contrastive learning for drug discovery]()
+1:15 PM-1:35 PM [Contrastive learning for drug discovery](https://acs.digitellinc.com/live/34/session/555619)
 
-1:35 PM-1:55 PM [Identifying novel peptide-based therapeutics through AI and simulations]()
+1:35 PM-1:55 PM [Identifying novel peptide-based therapeutics through AI and simulations](https://acs.digitellinc.com/live/34/session/555620)
 
-1:55 PM-2:15 PM [Role of AI and machine learning in drug discovery and healthcare]()
+1:55 PM-2:15 PM [Role of AI and machine learning in drug discovery and healthcare](https://acs.digitellinc.com/live/34/session/555621)
 
 
 # 3. In-Person Session --- March 25 Tuesday PM 
 ## Session Chairs: Zihao Ou  (UT  Dallas), Sita Sirisha Madugula (ORNL), Wook Shin (Vanderbilt)
 ## 5:00 PM - 8:15 PM EDT; Tuesday, March 25, 2025; Room: Room 24B (San Diego Convention Center)
 
-5:00 PM-5:20 PM [Automated analysis of time-dependent specular neutron reflectometry from thin films of ionic polymers using neural networks]()
+5:00 PM-5:20 PM [Automated analysis of time-dependent specular neutron reflectometry from thin films of ionic polymers using neural networks](https://acs.digitellinc.com/live/34/session/555590)
 
-5:20 PM-5:40 PM [Smart platform for solution processing electronic polymer thin films]()
+5:20 PM-5:40 PM [Smart platform for solution processing electronic polymer thin films](https://acs.digitellinc.com/live/34/session/555591)
 
-5:40 PM-6:00 PM [Harnessing DfT and machine learning for accurate optical gap prediction in conjugated polymers]()
+5:40 PM-6:00 PM [Harnessing DfT and machine learning for accurate optical gap prediction in conjugated polymers](https://acs.digitellinc.com/live/34/session/555592)
 
-6:00 PM-6:20 PM [Advanced manufacturing of wearable sensors for accessible, personalized health monitoring]()
+6:00 PM-6:20 PM [Advanced manufacturing of wearable sensors for accessible, personalized health monitoring](https://acs.digitellinc.com/live/34/session/555593)
 
-6:20 PM-6:40 PM [Quest to replace Ir as a catalyst for the oxygen evolution reaction]()
+6:20 PM-6:40 PM [Quest to replace Ir as a catalyst for the oxygen evolution reaction](https://acs.digitellinc.com/live/34/session/555594)
 
 6:40 PM-6:55 PM Break
 
-6:55 PM-7:15 PM [Extreme-scale multi-fidelity computational active learning paradigm to realize autonomous synthesis of 2D layered thin-film systems]()
+6:55 PM-7:15 PM [Extreme-scale multi-fidelity computational active learning paradigm to realize autonomous synthesis of 2D layered thin-film systems](https://acs.digitellinc.com/live/34/session/555596)
 
 7:15 PM-7:35 PM Challenges and opportunities in building an autonomous solid state chemistry laboratory (Withdrawn ?)
 
-7:35 PM-7:55 PM [(Moved to Virtual Session: Design of AI-guided materials acceleration platforms for emerging semiconductor applications)]()
+7:35 PM-7:55 PM (Moved to Virtual Session: Design of AI-guided materials acceleration platforms for emerging semiconductor applications)
 
-7:55 PM-8:15 PM [Multiscale modeling and data-driven material by design for multifunctional polymers]()
+7:55 PM-8:15 PM [Multiscale modeling and data-driven material by design for multifunctional polymers](https://acs.digitellinc.com/live/34/session/555599)
 
 
 # 4. In-Person Session --- March 26 Wednesday AM 
@@ -91,33 +91,33 @@ This is the most updated program. Changes are made to the original ACS [program]
 ## 11:00 AM - 3:00 PM EDT; Wednesday, March 26, 2025; Room: Room 29C (San Diego Convention Center)
 11:00 AM-11:02 AM Opening Remarks By Prof Gobet Advincula
 
-11:02 AM-11:19 AM [Digital twin for Chemical Sciences (DTCs): A blueprint for digitizing chemical characterization]()
+11:02 AM-11:19 AM [Digital twin for Chemical Sciences (DTCs): A blueprint for digitizing chemical characterization](https://acs.digitellinc.com/live/34/session/546306)
 
-11:19 AM-11:36 AM [Towards predictive synthesis with atomistic simulations and robust machine learning]()
+11:19 AM-11:36 AM [Towards predictive synthesis with atomistic simulations and robust machine learning](https://acs.digitellinc.com/live/34/session/546307)
 
-11:36 AM-11:53 AM [Navigation of digital chemical spaces]()
+11:36 AM-11:53 AM [Navigation of digital chemical spaces](https://acs.digitellinc.com/live/34/session/546308)
 
-11:53 AM-12:10 PM [AI/ML optimization workflows of materials properties and manufacturing: importance of autonomous laboratories and data mining]()
+11:53 AM-12:10 PM [AI/ML optimization workflows of materials properties and manufacturing: importance of autonomous laboratories and data mining](https://acs.digitellinc.com/live/34/session/546309)
 
-12:10 PM-12:27 PM [Functional monomer design via the open macromolecular genome]()
+12:10 PM-12:27 PM [Functional monomer design via the open macromolecular genome](https://acs.digitellinc.com/live/34/session/546310)
 
-12:27 PM-12:44 PM [Embedded 3D bioprinting: From material design to method development]()
+12:27 PM-12:44 PM [Embedded 3D bioprinting: From material design to method development](https://acs.digitellinc.com/live/34/session/546311)
 
-12:44 PM-1:01 PM [Application of Noise2Noise algorithm for high-throughput AFM imaging of polymer membranes]()
+12:44 PM-1:01 PM [Application of Noise2Noise algorithm for high-throughput AFM imaging of polymer membranes](https://acs.digitellinc.com/live/34/session/546312)
 
 1:01 PM-1:16 PM Break
 
-1:16 PM-1:33 PM [Labs of the future: Creating a systems of systems ecosystem for cross-domain scientific autonomous workflows]()
+1:16 PM-1:33 PM [Labs of the future: Creating a systems of systems ecosystem for cross-domain scientific autonomous workflows](https://acs.digitellinc.com/live/34/session/546314)
 
-1:33 PM-1:50 PM [Uncertainty characterization of foundation models for reliable applications in materials and Chemistry]()
+1:33 PM-1:50 PM [Uncertainty characterization of foundation models for reliable applications in materials and Chemistry](https://acs.digitellinc.com/live/34/session/546315)
 
-1:50 PM-2:07 PM [Data-driven design of reactive technologies: Case studies in energy storage]()
+1:50 PM-2:07 PM [Data-driven design of reactive technologies: Case studies in energy storage](https://acs.digitellinc.com/live/34/session/546316)
 
-2:07 PM-2:24 PM [Opportunities for overcoming the “valley of death” in developing new functional materials]()
+2:07 PM-2:24 PM [Opportunities for overcoming the “valley of death” in developing new functional materials](https://acs.digitellinc.com/live/34/session/546317)
 
-2:24 PM-2:41 PM [Modeling nonequilibrium reactive systems with REACTER]()
+2:24 PM-2:41 PM [Modeling nonequilibrium reactive systems with REACTER](https://acs.digitellinc.com/live/34/session/546318)
 
-2:41 PM-2:58 PM [Polymer informatics with large language models]()
+2:41 PM-2:58 PM [Polymer informatics with large language models](https://acs.digitellinc.com/live/34/session/546319)
 
 
 # 5. In-Person Session ---  March 26 Wednesday PM
