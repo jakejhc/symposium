@@ -5,7 +5,7 @@ This is the most updated program. Changes are made to the original ACS [program]
 ## Sponsored by PMSE, POLY, &I&EC divisions of American Chemical Society
 ![ai-banner](https://github.com/user-attachments/assets/eb20f117-5477-46d0-888d-78330932e663)
 
-# 1. March 25 Tuesday, Virtual Session:
+# 1. Virtual Session --  March 25 Tuesday
 ## Session Chairs: Jie Xu (ANL), Jihua Chen (ORNL), Ngoc Nguyen (UIUC); 
 ## 1:00 PM - 4:35 PM EST; Tuesday, March 25, 2025; Room: Digital Session (Digital Meeting)
 
@@ -36,21 +36,62 @@ This is the most updated program. Changes are made to the original ACS [program]
 
 ### ***** These talks are different from the original ACS schedules
 
-# 2. March 25 Tuesday, AM In-Person Session
+# 2. In-Person Session -- March 25 Tuesday AM 
 Session Chairs: Wook Shin (Vanderbilt), Miguel Fuentes-Cabrera (NorthEastern Univ.), Qianxiang Ai (MIT)
-![ai4sobo (4)](https://github.com/user-attachments/assets/f99e2adb-70b8-44a8-b3ba-161c55fab0d7)
-![ai4sobo (3)](https://github.com/user-attachments/assets/0e3137b2-00b1-4a64-9711-d1820627bfd4)
 
-## Note: The above is the official ACS program. However there is the following change:
-### The third talk (original scheduled for Dr. Jeremy Smith) is now in our virtual session (Mar 25).
+11:00 AM - 2:15 PM EDT
+Tuesday, March 25, 2025
+Room: Room 24B (San Diego Convention Center)
 
-# 3. March 25 Tuesday, PM In-Person Session:
+11:00 AM-11:20 AM Atom-pairwise hybrid neural network / physics models for protein-ligand interactions
+
+11:20 AM-11:40 AM AI/ML-driven disease expansion, target selection and candidate selection in drug discovery
+
+11:40 AM-12:00 PM (Moved to Virtual Session: AI and modeling in drug and vaccine design)
+
+12:00 PM-12:20 PM Computational analysis workflows for biological imaging data: data standardization, continual model training, and data storage and sharing
+
+12:20 PM-12:40 PM Machine-learning enhanced photonics engineering for optical transparency in biological tissues
+
+12:40 PM-12:55 PM Break
+
+12:55 PM-1:15 PM Advanced modelling techniques for the optimisation of chromatographic separation processes
+
+1:15 PM-1:35 PM Contrastive learning for drug discovery
+
+1:35 PM-1:55 PM Identifying novel peptide-based therapeutics through AI and simulations
+
+1:55 PM-2:15 PM Role of AI and machine learning in drug discovery and healthcare
+
+
+
+# 3. In-Person Session --- March 25 Tuesday PM 
 Session Chairs: Zihao Ou  (UT  Dallas), Sita Sirisha Madugula (ORNL), Wook Shin (Vanderbilt)
-![ai4sobo (5)](https://github.com/user-attachments/assets/962aea1e-f36b-47ac-832b-fb42611e29ac)
-![ai4sobo (6)](https://github.com/user-attachments/assets/8b328431-7856-4e3c-a3e0-af473ef4054a)
-## Note: The above is the official ACS program. However there is the following change:
-### The second-to-last talk by Prof Aram Amassian (NC State) on "Design of AI-guided materials acceleration platforms for emerging semiconductor applications" is now moved to our virtual session (March 25).
-### The third-to last talk was withdrawn. 
+
+5:00 PM - 8:15 PM EDT
+Tuesday, March 25, 2025
+Room: Room 24B (San Diego Convention Center)
+
+5:00 PM-5:20 PM Automated analysis of time-dependent specular neutron reflectometry from thin films of ionic polymers using neural networks
+
+5:20 PM-5:40 PM Smart platform for solution processing electronic polymer thin films
+
+5:40 PM-6:00 PM Harnessing DfT and machine learning for accurate optical gap prediction in conjugated polymers
+
+6:00 PM-6:20 PM Advanced manufacturing of wearable sensors for accessible, personalized health monitoring
+
+6:20 PM-6:40 PM Quest to replace Ir as a catalyst for the oxygen evolution reaction
+
+6:40 PM-6:55 PM Break
+
+6:55 PM-7:15 PM Extreme-scale multi-fidelity computational active learning paradigm to realize autonomous synthesis of 2D layered thin-film systems
+
+7:15 PM-7:35 PM Challenges and opportunities in building an autonomous solid state chemistry laboratory (Withdrawn ?)
+
+7:35 PM-7:55 PM (Moved to Virtual Session: Design of AI-guided materials acceleration platforms for emerging semiconductor applications)
+
+7:55 PM-8:15 PM Multiscale modeling and data-driven material by design for multifunctional polymers
+
 
 # 4. March 26 Wednesday, AM In-Person Session:
 Session Chairs: Yifei Jin (Univ. of Nevada-Reno), Hanyu Wang (ORNL), Zihao Ou (UT Dallas)
