@@ -12,13 +12,13 @@ The official ACS [program](https://acs.digitellinc.com/live/34/page/1138?speaker
 
 1:18 PM-1:36 PM [Practical application of machine learning requires rethinking small data](https://acs.digitellinc.com/live/34/session/554864)
 
-### 1:36 PM-1:54 PM  "AI and modeling in drug and Vaccine design" (by Dr. Jeremy Smith from ORNL) *****
+1:36 PM-1:54 PM  [AI and modeling in drug and Vaccine design](https://acs.digitellinc.com/live/34/session/555614) *****
 
-1:54 PM-2:12 PM Engineering defect vibrations to enhance interfacial thermal transport in polymer composites
+1:54 PM-2:12 PM [Engineering defect vibrations to enhance interfacial thermal transport in polymer composites](https://acs.digitellinc.com/live/34/session/554866) 
 
 2:12 PM-2:30 PM Direct Sound Printing: 3D printing with ultrasound and holograms and its applications in non-invasive surgery
 
-### 2:30 PM-2:45 PM "Design of AI-guided materials acceleration platforms for emerging semiconductor applications" (by Prof Aram Amassian from NC State) *****
+2:30 PM-2:45 PM [Design of AI-guided materials acceleration platforms for emerging semiconductor applications](https://acs.digitellinc.com/live/34/session/555598)) *****
 
 2:45 PM-3:03 PM Use of predictive models in advancing biomarkers for precision oncology
 
