@@ -139,7 +139,7 @@ Access virtual and live streamed session(s) via My Itinerary in the Full Schedul
 
 
 # 5. In-Person Session ---  March 26 Wednesday PM
-### Session Chair: Sita Sirisha Madugula (ORNL), Qianxiang Ai (MIT)
+### Session Chair: Sita Sirisha Madugula (ORNL), Qianxiang Ai (MIT), Hanyu Wang (ORNL)
 ## 5:00 PM - 8:00 PM EDT; Wednesday March 26, Room 29C (San Diego Convention Center)
 
 5:00 PM-5:05 PM Opening remarks
