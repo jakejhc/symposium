@@ -45,6 +45,7 @@ Access virtual and live streamed session(s) via My Itinerary in the Full Schedul
 4:15 PM-4:33 PM [Machine learning to predict designer solvent properties for manufacturing and healthcare applications](https://acs.digitellinc.com/live/34/session/554874)
 
 ***** These talks are different from the original ACS schedules
+
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/2215e448-f0ec-49e7-982e-997690093f5a" />
 
 # 2. In-Person Session -- March 25 Tuesday AM 
@@ -70,6 +71,7 @@ Access virtual and live streamed session(s) via My Itinerary in the Full Schedul
 1:35 PM-1:55 PM [Identifying novel peptide-based therapeutics through AI and simulations](https://acs.digitellinc.com/live/34/session/555620)
 
 1:55 PM-2:15 PM [Role of AI and machine learning in drug discovery and healthcare](https://acs.digitellinc.com/live/34/session/555621)
+
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/2215e448-f0ec-49e7-982e-997690093f5a" />
 
 
@@ -96,6 +98,7 @@ Access virtual and live streamed session(s) via My Itinerary in the Full Schedul
 7:35 PM-7:55 PM (Moved to Virtual Session: Design of AI-guided materials acceleration platforms for emerging semiconductor applications)
 
 7:55 PM-8:15 PM [Multiscale modeling and data-driven material by design for multifunctional polymers](https://acs.digitellinc.com/live/34/session/555599)
+
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/2215e448-f0ec-49e7-982e-997690093f5a" />
 
 
@@ -131,6 +134,7 @@ Access virtual and live streamed session(s) via My Itinerary in the Full Schedul
 2:24 PM-2:41 PM [Modeling nonequilibrium reactive systems with REACTER](https://acs.digitellinc.com/live/34/session/546318)
 
 2:41 PM-2:58 PM [Polymer informatics with large language models](https://acs.digitellinc.com/live/34/session/546319)
+
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/2215e448-f0ec-49e7-982e-997690093f5a" />
 
 
