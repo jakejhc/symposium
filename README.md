@@ -3,6 +3,7 @@
 This is the MOST updated schedule, including a number of changes made to the original ACS [program](https://acs.digitellinc.com/live/34/page/1138?speakers=386313).
 
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/2215e448-f0ec-49e7-982e-997690093f5a" />
+
 ## --- Schedules are in EASTERN time !!! ---
 Sponsored by PMSE, POLY, and I&EC divisions of American Chemical Society
 ![ai-banner](https://github.com/user-attachments/assets/eb20f117-5477-46d0-888d-78330932e663)
