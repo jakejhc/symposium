@@ -4,7 +4,6 @@ This is the MOST updated schedule, including a number of changes made to the ori
 
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/2215e448-f0ec-49e7-982e-997690093f5a" />
 
-## --- Schedules are in EASTERN time !!! ---
 Sponsored by PMSE, POLY, and I&EC divisions of American Chemical Society
 ![ai-banner](https://github.com/user-attachments/assets/eb20f117-5477-46d0-888d-78330932e663)
 
@@ -155,6 +154,7 @@ Access virtual and live streamed session(s) via My Itinerary in the Full Schedul
 
 7:40 PM-8:00 PM [Machine learning for nanoparticle design](https://acs.digitellinc.com/live/34/session/555610)
 
+## --- Schedules are in EASTERN time !!! ---
 
 
 
