@@ -30,7 +30,7 @@ Access virtual and live streamed session(s) via My Itinerary in the Full Schedul
 
 2:12 PM-2:30 PM [Direct Sound Printing: 3D printing with ultrasound and holograms and its applications in non-invasive surgery](https://acs.digitellinc.com/live/34/session/554867)
 
-2:30 PM-2:45 PM [Design of AI-guided materials acceleration platforms for emerging semiconductor applications](https://acs.digitellinc.com/live/34/session/555598) *****
+2:30 PM-2:45 PM withdrawn
 
 2:45 PM-3:03 PM [Use of predictive models in advancing biomarkers for precision oncology](https://acs.digitellinc.com/live/34/session/554869)
 
@@ -95,7 +95,7 @@ Access virtual and live streamed session(s) via My Itinerary in the Full Schedul
 
 7:15 PM-7:35 PM Challenges and opportunities in building an autonomous solid state chemistry laboratory (Withdrawn ?)
 
-7:35 PM-7:55 PM (Moved to Virtual Session: Design of AI-guided materials acceleration platforms for emerging semiconductor applications)
+7:35 PM-7:55 PM [Design of AI-guided materials acceleration platforms for emerging semiconductor applications](https://acs.digitellinc.com/live/34/session/555598) 
 
 7:55 PM-8:15 PM [Multiscale modeling and data-driven material by design for multifunctional polymers](https://acs.digitellinc.com/live/34/session/555599)
 
