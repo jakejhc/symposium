@@ -1,6 +1,6 @@
 # <font color='green'> AI ACS Symposium（https://bit.ly/aiacs)
 ### [2025](https://www.acs.org/meetings/acs-meetings/spring.html) March 23-27, San Diego, CA & Virtual 
-This is the MOST updated schedule, including a number of changes made to the original ACS [program](https://acs.digitellinc.com/live/34/page/1138?speakers=386313).
+This is identical to the original ACS [program](https://acs.digitellinc.com/live/34/page/1138?speakers=386313).
 
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/2215e448-f0ec-49e7-982e-997690093f5a" />
 
@@ -24,7 +24,7 @@ Access virtual and live streamed session(s) via My Itinerary in the Full Schedul
 
 1:18 PM-1:36 PM [Practical application of machine learning requires rethinking small data](https://acs.digitellinc.com/live/34/session/554864)
 
-1:36 PM-1:54 PM  [AI and modeling in drug and Vaccine design](https://acs.digitellinc.com/live/34/session/555614) *****
+1:36 PM-1:54 PM withdrawn
 
 1:54 PM-2:12 PM [Engineering defect vibrations to enhance interfacial thermal transport in polymer composites](https://acs.digitellinc.com/live/34/session/554866) 
 
@@ -44,7 +44,6 @@ Access virtual and live streamed session(s) via My Itinerary in the Full Schedul
 
 4:15 PM-4:33 PM [Machine learning to predict designer solvent properties for manufacturing and healthcare applications](https://acs.digitellinc.com/live/34/session/554874)
 
-***** These talks are different from the original ACS schedules
 
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/2215e448-f0ec-49e7-982e-997690093f5a" />
 
@@ -56,7 +55,7 @@ Access virtual and live streamed session(s) via My Itinerary in the Full Schedul
 
 11:20 AM-11:40 AM [AI/ML-driven disease expansion, target selection and candidate selection in drug discovery](https://acs.digitellinc.com/live/34/session/555613)
 
-11:40 AM-12:00 PM (Moved to Virtual Session: AI and modeling in drug and vaccine design)
+11:40 AM-12:00 PM [AI and modeling in drug and Vaccine design](https://acs.digitellinc.com/live/34/session/555614) 
 
 12:00 PM-12:20 PM [Computational analysis workflows for biological imaging data: data standardization, continual model training, and data storage and sharing](https://acs.digitellinc.com/live/34/session/555615)
 
