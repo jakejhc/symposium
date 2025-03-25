@@ -19,8 +19,8 @@ Access virtual and live streamed session(s) via My Itinerary in the Full Schedul
 ### Session Chairs: Jie Xu (ANL), Jihua Chen (ORNL), Ngoc Nguyen (UIUC); 
 ## 1:00 PM - 4:35 PM EST; Tuesday, March 25, 2025
 
-1:00 PM-1:18 PM [Autonomous materials informatics for polymer materials development
-](https://acs.digitellinc.com/live/34/session/554863)
+1:00 PM-1:18 PM [Autonomous materials informatics for polymer materials development 
+](https://acs.digitellinc.com/live/34/session/554863) by Yuki Asano 
 
 1:18 PM-1:36 PM [Practical application of machine learning requires rethinking small data](https://acs.digitellinc.com/live/34/session/554864)
 
