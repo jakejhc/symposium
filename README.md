@@ -1,6 +1,6 @@
 # <font color='green'> AI ACS Symposium（https://bit.ly/aiacs)
-### [2025](https://www.acs.org/meetings/acs-meetings/spring.html) March 23-27, San Diego, CA & Virtual 
-This is identical to the original ACS [program]([https://acs.digitellinc.com/live/34/page/1138?speakers=386313](https://acs.digitellinc.com/live/35/page/1204?speakers=386313)).
+### [2025](https://www.acs.org/meetings/acs-meetings/fall.html) Aug 17-21, DC & Virtual 
+This is identical to the original ACS [program](https://acs.digitellinc.com/live/35/page/1204?speakers=386313).
 
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/2215e448-f0ec-49e7-982e-997690093f5a" />
 
