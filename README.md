@@ -190,9 +190,6 @@ Ian Foster
 10:20 AM - 10:40 AM EDT
 Tuesday, August 19, 2025
 Room: Digital Session (Digital Meeting)
-Add To Itinerary
-Add to calendar
-In complex experimental environments with noisy or partially complete measurements pose significant challenges to effectively integrate machine learning (ML) modeling… 
 Presenter
 Ilia Ivanov
 Co-Authors
@@ -204,9 +201,6 @@ Rigoberto Advincula, The University of Tennessee, Knoxville
 10:40 AM - 11:00 AM EDT
 Tuesday, August 19, 2025
 Room: Digital Session (Digital Meeting)
-Add To Itinerary
-Add to calendar
-A critical step in biochemical reactions is for the catalyst and substrate to adopt conformations favorable for the reaction… 
 Presenter
 John King
 Co-Authors
@@ -218,9 +212,6 @@ Saurabh Talele
 11:00 AM - 11:20 AM EDT
 Tuesday, August 19, 2025
 Room: Digital Session (Digital Meeting)
-Add To Itinerary
-Add to calendar
-The additive nature of 3D printing (3DP) is particularly well-suited for the mass customization of food and drug products, as it allows for texture modulation and the combination of multiple drugs or nutrients at specific levels to meet individual needs… 
 Presenter
 Anson Ma
 Co-Authors
@@ -236,9 +227,6 @@ Qian Yang
 11:20 AM - 11:40 AM EDT
 Tuesday, August 19, 2025
 Room: Digital Session (Digital Meeting)
-Add To Itinerary
-Add to calendar
-In recent years, interest in automated experimentation and self-driving labs enabled by machine learning and robotics has grown rapidly due to their potential to significantly increase the pace and efficacy of scientific discovery… 
 Presenter
 Qian Yang
 Co-Authors
@@ -251,9 +239,6 @@ Anson Ma
 11:40 AM - 12:00 PM EDT
 Tuesday, August 19, 2025
 Room: Digital Session (Digital Meeting)
-Add To Itinerary
-Add to calendar
-Rapid advancements in automated experimentation, high-performance computing, and generative AI present unprecedented opportunities to discover and refine anticancer strategies with improved efficiency… 
 Presenter
 Debsindhu Bhowmik
 
@@ -262,9 +247,6 @@ Debsindhu Bhowmik
 12:00 PM - 12:20 PM EDT
 Tuesday, August 19, 2025
 Room: Digital Session (Digital Meeting)
-Add To Itinerary
-Add to calendar
-Understanding thermal transport mechanisms in polymer composites is essential for tailoring their thermal conductivity-either enhancing it for efficient heat dissipation or reducing it for thermal insulation… 
 Presenter
 Yanfei Xu, University of Massachusetts Amherst
 
@@ -273,9 +255,6 @@ Yanfei Xu, University of Massachusetts Amherst
 12:20 PM - 12:40 PM EDT
 Tuesday, August 19, 2025
 Room: Digital Session (Digital Meeting)
-Add To Itinerary
-Add to calendar
-The rational design of membrane-disruptive therapeutics offers a powerful strategy to combat drug-resistant pathogens and address pressing biomedical challenges… 
 Presenter
 Mingfei Zhao
 
@@ -284,9 +263,6 @@ Mingfei Zhao
 12:40 PM - 1:00 PM EDT
 Tuesday, August 19, 2025
 Room: Digital Session (Digital Meeting)
-Add To Itinerary
-Add to calendar
-Antifouling refers to the process of preventing the attachment and growth of unwanted organisms, such as bacteria, algae, and other microorganisms, on surfaces. Polyzwitterions, a distinctive class of polyampholytes, have emerged as highly effective materials for antifouling applications… 
 Presenter
 Charini Maladeniya
 Co-Authors
@@ -310,9 +286,6 @@ Rigoberto Advincula, The University of Tennessee, Knoxville
 1:00 PM - 1:20 PM EDT
 Tuesday, August 19, 2025
 Room: Digital Session (Digital Meeting)
-Add To Itinerary
-Add to calendar
-Coarse-grained models have become an essential part of the biomolecular modeling toolkit and are critical to study the slow dynamical processes of large macromolecules such as proteins and DNA… 
 Presenter
 Mike Jones
 Co-Authors
@@ -325,11 +298,10 @@ Andrew Ferguson
 1:20 PM - 1:40 PM EDT
 Tuesday, August 19, 2025
 Room: Digital Session (Digital Meeting)
-Add To Itinerary
-Add to calendar
-Imaging and assembling soft functional materials have a broad impact on applications related to medicine, healthcare, energy, manufacturing, and electronics… 
 Presenter
 Jihua Chen, Oak Ridge National Laboratory
+
+
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/2215e448-f0ec-49e7-982e-997690093f5a" />
 
 
