@@ -1,4 +1,4 @@
-# <font color='green'> AI ACS Symposium（https://bit.ly/aiacs)
+# <font color='green'> The 4th AI ACS Symposium（https://bit.ly/aiacs)
 ### [2025](https://www.acs.org/events/fall.html) Aug 17-21, DC & Virtual 
 This is identical to the original ACS [program](https://acs.digitellinc.com/live/35/page/1204?speakers=386313).
 
