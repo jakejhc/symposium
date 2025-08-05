@@ -10,32 +10,44 @@ Sponsored by PMSE, POLY, and I&EC divisions of American Chemical Society
 # Oral In-Person Session
 Data Analytics & AI for Chemistry, Manufacturing & Healthcare:
 
-## 8:00 AM - 12:00 PM EDT
-Monday, August 18, 2025
+## 8:00 AM - 12:00 PM EDT; Monday, August 18, 2025
 Room: Room 153 (Walter E. Washington Convention Center)
 
 ## Presiders
-Panagiotis Christakopoulos
+Panagiotis Christakopoulos, ORNL
+
 Qianxiang Ai, Fordham University
+
 Yifei Jin, University of Nevada Reno
+
 Organizer, Presider
 Zihao Ou, Stanford University
+
 ## This session has 12 presentations presentations
+<img width="631" height="510" alt="image" src="https://github.com/user-attachments/assets/7960ab0e-db5b-4885-9a86-4a6e82828538" />
+<img width="872" height="479" alt="image" src="https://github.com/user-attachments/assets/c17e4120-d8b4-456b-9731-83d96debdf1d" />
+<img width="802" height="459" alt="image" src="https://github.com/user-attachments/assets/0304d88e-2c29-42ed-b724-ad1f50a76c8b" />
+<img width="799" height="479" alt="image" src="https://github.com/user-attachments/assets/0c875b51-1b4a-490a-aa9b-f3182b39eb0b" />
+<img width="739" height="566" alt="image" src="https://github.com/user-attachments/assets/b777e09f-998b-4534-b9be-4ddf1ba363bc" />
+<img width="769" height="305" alt="image" src="https://github.com/user-attachments/assets/29ea135f-0db2-4345-b3b7-f711f4a0bea9" />
 
 # Digital Meeting
  Data Analytics & AI for Chemistry, Manufacturing & Healthcare:
  
-## 10:00 AM - 1:40 PM EDT
-Tuesday, August 19, 2025
+## 10:00 AM - 1:40 PM EDT; Tuesday, August 19, 2025
 Room: Digital Session 
 
 
-Organizer, Presider
-Jihua Chen, Oak Ridge National Laboratory
 ## Presiders
 Charini Maladeniya
+
 Sirisha Madugula, ORNL
+
 Yanfei Xu, University of Massachusetts Amherst
+
+Organizer, Presider
+Jihua Chen, Oak Ridge National Laboratory
+
 Oral - Digital
 ## This session has 11 presentations presentations
 
