@@ -7,8 +7,9 @@ This is identical to the original ACS [program](https://acs.digitellinc.com/live
 Sponsored by PMSE, POLY, and I&EC divisions of American Chemical Society
 ![ai-banner](https://github.com/user-attachments/assets/eb20f117-5477-46d0-888d-78330932e663)
 
-
+# In-Person Session:
 Data Analytics & AI for Chemistry, Manufacturing & Healthcare:
+
 8:00 AM - 12:00 PM EDT
 Monday, August 18, 2025
 Room: Room 153 (Walter E. Washington Convention Center)
@@ -30,11 +31,11 @@ Co-sponsor - Nominal - POLY: Division of Polymer Chemistry
 Co-sponsor - Nominal - PMSE: Division of Polymeric Materials Science and Engineering
  This session has 12 presentations presentations
 
-
+# Digital Meeting:
  Data Analytics & AI for Chemistry, Manufacturing & Healthcare:
 10:00 AM - 1:40 PM EDT
 Tuesday, August 19, 2025
-Room: Digital Session (Digital Meeting)
+Room: Digital Session 
 
 
 DIVISION/COMMITTEE: [I&EC: Division of Industrial and Engineering Chemistry] 
