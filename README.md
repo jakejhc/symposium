@@ -12,8 +12,8 @@ Data Analytics & AI for Chemistry, Manufacturing & Healthcare:
 8:00 AM - 12:00 PM EDT
 Monday, August 18, 2025
 Room: Room 153 (Walter E. Washington Convention Center)
-In Itinerary
-Add to calendar
+
+
 DIVISION/COMMITTEE: [I&EC: Division of Industrial and Engineering Chemistry] 
 Organizers
 Rigoberto Advincula, The University of Tennessee, Knoxville
@@ -35,8 +35,8 @@ Co-sponsor - Nominal - PMSE: Division of Polymeric Materials Science and Enginee
 10:00 AM - 1:40 PM EDT
 Tuesday, August 19, 2025
 Room: Digital Session (Digital Meeting)
-In Itinerary
-Add to calendar
+
+
 DIVISION/COMMITTEE: [I&EC: Division of Industrial and Engineering Chemistry] 
 Organizers
 Rigoberto Advincula, The University of Tennessee, Knoxville
