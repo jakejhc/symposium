@@ -12,3 +12,6 @@ Sponsored by PMSE, POLY, and I&EC divisions of American Chemical Society
 
 <img width="827" height="261" alt="image" src="https://github.com/user-attachments/assets/d5287c54-3766-4379-b163-44cb27293270" />
 <img width="841" height="279" alt="image" src="https://github.com/user-attachments/assets/696ac423-854b-4984-ae72-db91e2d3fca7" />
+
+<img width="842" height="302" alt="image" src="https://github.com/user-attachments/assets/1e7e6d94-d98e-498e-95cc-aaf41bbca8b5" />
+
