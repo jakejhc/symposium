@@ -1,6 +1,6 @@
 # <font color='green'> The 5th AI ACS Symposium（https://bit.ly/aiacs)
 ### [2026](https://www.acs.org/events/spring.html) March 22-26, Atlanta GA
-This is identical to the original ACS [program](https://acs.digitellinc.com/live/35/page/1204?speakers=386313).
+This is identical to the original ACS [program](https://www.acs.org/events/spring/attend/registration.html?sc=260202_ad_reg_3rd_mtg_SPR26_Supreme_Google_Student_Geo&s_kwcid=AL!19616!3!!!!x!!&gad_source=1&gad_campaignid=23453997599&gbraid=0AAAAADjDcaRpvIyCYGbj3zhtdrp7MEA9f&gclid=Cj0KCQiAqeDMBhDcARIsAJEbU9TtE_W7UlVRsunnXSpttF7aYRYoCGJ1ZfrKBKl-9H3mQlUomvYprYQaAt1SEALw_wcB).
 
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/2215e448-f0ec-49e7-982e-997690093f5a" />
 
@@ -21,7 +21,7 @@ Sponsored by PMSE, POLY, and I&EC divisions of American Chemical Society
 
 <img width="842" height="302" alt="image" src="https://github.com/user-attachments/assets/1e7e6d94-d98e-498e-95cc-aaf41bbca8b5" />
 
-#Session Chairs for I&EC003D: Sita Sirisha Madugula; Charini Maladeniya
+#Session Chairs for I&EC003D: Sita Sirisha Madugula; Charini Maladeniya; Zihao Ou
 
 <img width="836" height="278" alt="image" src="https://github.com/user-attachments/assets/8c627dc1-ad39-4d21-836e-9c1cdc8d5f76" />
 
