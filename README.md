@@ -17,11 +17,11 @@ Sponsored by PMSE, POLY, and I&EC divisions of American Chemical Society
 
 <img width="841" height="279" alt="image" src="https://github.com/user-attachments/assets/696ac423-854b-4984-ae72-db91e2d3fca7" />
 
-#Session Chairs for I&EC003C:
+#Session Chairs for I&EC003C: Zihao Ou; Qianxiang Ai; Yuanwei Li; Hanyu Wang
 
 <img width="842" height="302" alt="image" src="https://github.com/user-attachments/assets/1e7e6d94-d98e-498e-95cc-aaf41bbca8b5" />
 
-#Session Chairs for I&EC003D:
+#Session Chairs for I&EC003D: Sita Sirisha Madugula; Charini Maladeniya
 
 <img width="836" height="278" alt="image" src="https://github.com/user-attachments/assets/8c627dc1-ad39-4d21-836e-9c1cdc8d5f76" />
 
