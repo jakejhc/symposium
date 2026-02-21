@@ -1,6 +1,6 @@
 # <font color='green'> The 5th AI ACS Symposium（https://bit.ly/aiacs)
 ### [2026](https://www.acs.org/events/spring.html) March 22-26, Atlanta GA
-This is identical to the original ACS [program](https://www.acs.org/events/spring/attend/registration.html?sc=260202_ad_reg_3rd_mtg_SPR26_Supreme_Google_Student_Geo&s_kwcid=AL!19616!3!!!!x!!&gad_source=1&gad_campaignid=23453997599&gbraid=0AAAAADjDcaRpvIyCYGbj3zhtdrp7MEA9f&gclid=Cj0KCQiAqeDMBhDcARIsAJEbU9TtE_W7UlVRsunnXSpttF7aYRYoCGJ1ZfrKBKl-9H3mQlUomvYprYQaAt1SEALw_wcB).
+This is identical to the original ACS [program](https://acs.digitellinc.com/live/36/page/1271?speakers=386313).
 
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/2215e448-f0ec-49e7-982e-997690093f5a" />
 
