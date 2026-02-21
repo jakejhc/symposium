@@ -25,5 +25,6 @@ Sponsored by COMP, POLY, and I&EC divisions of American Chemical Society
 
 <img width="836" height="278" alt="image" src="https://github.com/user-attachments/assets/8c627dc1-ad39-4d21-836e-9c1cdc8d5f76" />
 
-#Scan this QR code to access program
+#Scan this QR code to access program (QR code available on cell phone friendly format: https://bit.ly/m/aiacs)
+
 <img width="656" height="656" alt="image" src="https://github.com/user-attachments/assets/14564ae4-70bc-478b-b6b2-81b3c2b5e788" />
