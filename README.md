@@ -1,30 +1,33 @@
-# <font color='green'> The 5th AI ACS Symposium（https://bit.ly/aiacs)
-### [2026](https://www.acs.org/events/spring.html) March 22-26, Atlanta GA
-This is identical to the original ACS [program](https://acs.digitellinc.com/live/36/page/1271?speakers=386313).
-
-<img width="481" alt="image" src="https://github.com/user-attachments/assets/2215e448-f0ec-49e7-982e-997690093f5a" />
+# <font color='green'> The 6th AI ACS Symposium（https://bit.ly/aiacs)
+### [2026](https://www.acs.org/events/fall.html) Aug 24-25, Chicago &Virtual
 
 Sponsored by COMP, POLY, and I&EC divisions of American Chemical Society
 ![ai-banner](https://github.com/user-attachments/assets/eb20f117-5477-46d0-888d-78330932e663)
 
-<img width="1561" height="163" alt="image" src="https://github.com/user-attachments/assets/fb9631f1-62ee-4407-b514-e4e051d5b17f" />
+<img width="960" height="540" alt="acs 26fall" src="https://github.com/user-attachments/assets/ed60d4d4-c969-4a12-94ef-c698c3476e1c" />
 
-#Session Chairs for I&EC003A: Hanyu Wang; Panagiotis Christakopoulos; Mohammad Atif Faiz Afzal; Zihao Ou
 
-<img width="827" height="261" alt="image" src="https://github.com/user-attachments/assets/d5287c54-3766-4379-b163-44cb27293270" />
+#In Person Session 1--- Session Chairs: Naresh Osti, Weijian Hua, Jiayu Peng
+<img width="960" height="540" alt="acs 26fall (2)" src="https://github.com/user-attachments/assets/485b0610-4ca5-4814-bd16-75e0989053c3" />
 
-#Session Chairs for I&EC003B:  Panagiotis Christakopoulos; Jiayu Peng; Sita Sirisha Madugula; Zihao Ou
+ 
+#In Person Session 2--- Session Chairs: Serena Chen, Weijian Hua, Yuanwei Li 
+<img width="960" height="540" alt="acs 26fall (3)" src="https://github.com/user-attachments/assets/01333e5f-e286-437d-9f63-bc19b762154f" />
 
-<img width="841" height="279" alt="image" src="https://github.com/user-attachments/assets/696ac423-854b-4984-ae72-db91e2d3fca7" />
+ 
+#In Person Session 3--- Session Chairs: Serena Chen, Naresh Osti, Nikita Sengar
+<img width="960" height="540" alt="acs 26fall (4)" src="https://github.com/user-attachments/assets/e0a68b08-d628-45a4-b92b-65a0f6bd5743" />
 
-#Session Chairs for I&EC003C: Zihao Ou; Qianxiang Ai; Yuanwei Li; Hanyu Wang
+ 
+#Digital Session --- Session Chairs for I&EC003D: Jihua Chen, Chi Tran
+<img width="960" height="540" alt="acs 26fall (1)" src="https://github.com/user-attachments/assets/1e875014-b598-45c9-97d1-74f4c48a94d4" />
 
-<img width="842" height="302" alt="image" src="https://github.com/user-attachments/assets/1e7e6d94-d98e-498e-95cc-aaf41bbca8b5" />
 
-#Session Chairs for I&EC003D: Sita Sirisha Madugula; Charini Maladeniya; Zihao Ou
+#Poster Session
+<img width="960" height="540" alt="acs 26fall (5)" src="https://github.com/user-attachments/assets/7fe31893-d201-4577-bfcf-de9b99d1e53e" />
 
-<img width="836" height="278" alt="image" src="https://github.com/user-attachments/assets/8c627dc1-ad39-4d21-836e-9c1cdc8d5f76" />
 
+ 
 #Scan this QR code to access program (QR code also available on our mobile friendly site: https://bit.ly/m/aiacs)
 
 <img width="656" height="656" alt="image" src="https://github.com/user-attachments/assets/14564ae4-70bc-478b-b6b2-81b3c2b5e788" />
