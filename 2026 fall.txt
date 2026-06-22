@@ -1,0 +1,43 @@
+Synthetically Aware Generative Polymer Design via the Open Macromolecular Genome	Jackson, Nicholas	jacksonn@illinois.edu
+Robust Bayesian optimization for accelerating process development	Pomberger, Alexander	alex.pomberger@hotmail.com
+Predictive Digital Twins for Optimized Quality Control in Adhesive & Sealant Manufacturing	McGlade, Emma	emma@basetwo.ai
+Bayesian Optimization-Enabled Efficient Embedded Ink Writing of Human Tissue Analogs	Jin, Yifei	yifeij@unr.edu
+Flexible experimental design framework for automated semiconductor material development platform	Lee, Sangyoon	sangyoon.lee@samsung.com
+Tuning Interchain Thermal Transport via Charge Carriers in Conjugated Polymers	Xu, Yanfei	yanfeixu@umass.edu
+Machine Learning-Driven Embedded Ink Writing: Optimizing Polymer Bioinks and Process Control for Advanced 3D Biofabrication	Hua, Weijian	weijianhuaunr@gmail.com
+Generative workflow for adaptive distributed model predictive control for chemicals manufacturing	Allman, Andrew	allmanaa@umich.edu
+AI/ML–guided enzyme discovery and engineering for a circular Nylon-6,6 economy	Chen, Serena	serenachen@utexas.edu
+Mapping the global polymer innovation landscape: AI-driven analytics reveal emerging trends and translation pathways	Krogman, Jeremy	jkrogman@cas.org
+Science without labels: unsupervised learning techniques in chemistry	Miranda Quintana, Ramon	quintana@chem.ufl.edu
+Bayesian Optimization-Accelerated Discovery of Enantioselective Ring-Opening Polymerization Catalysts from Sparse Data	Xie, Xiaoyu	xyxie@vt.edu
+Polymers and materials with AI/ML workflows	Advincula, Rigoberto	rca41@case.edu
+Efficient and Accurate Bottom-Up Multiscale Modeling of Entangled Polymer Rheology	Liang, Heyi	heyi.liang@ufl.edu
+Toward Autonomous Nanoscale Discovery through Synthetic Data and Machine Learning in Atomic Force Microscopy	Millan-Solsona, Ruben	solsonarm@ornl.gov
+Active learning-enabled multi-objective design of thermally conductive and mechanically compliant polymers	Liu, Yuhan	yliu57@nd.edu
+Probing Microscopic Dynamics in Polymers via Quasielastic Neutron Scattering	Osti, Naresh	ostinc@ornl.gov
+Artificial Intelligence & Computer Vision for Microscopy in Semiconductor Industry	Zhu, Xiangyu	x-zhu@ti.com
+Agentic AI for polymer chemistry enabled by trusted scientific knowledge	Eigner Pitto, Valentina	veignerpitto@acs-i.org
+Deuteration for SANS study of polymers	Zhang, Honghai	zhanghhsh1982@gmail.com
+Porous peptide frameworks with tertiary structure for precise molecular recognition and catalysis	Nguyen, Andy	ainguyen10688@gmail.com
+Machine-learning models for heterogeneously catalysed chemical reactor design	Moioli, Emanuele	emanuele.moioli@polimi.it
+Stereochemistry Aware Regression and Classification: Machine Learning Models for Polymer Melting Point Prediction	Milrod, Maya	mayamilrod@u.northwestern.edu
+Optimization and Control of Frontal Radical Polymerization Using Sample-Efficient Active Learning	Lampkin, Philip	plampkin@wisc.edu
+Towards an AI-Accelerated Ab Initio Bottom-Up Polymer Structure Prediction: Reliable Hybrid DFT Machine-Learning Force Fields via SeA	Ko, Hsin-Yu	hsin-yu.ko@unt.edu
+Simulation-Informed Machine Learning for Design and Optimization of Organic Field-Effect Transistors	He, Zhengran	zmh5222@psu.edu
+Integrating Real-Time Analytics into Continuous Flow Hydrogen-Deuterium Exchange	Nusser, Brandon	nusserbd@ornl.gov
+AI-accelerated ab initio bottom-up polymer structure prediction of amorphous poly(1,3-dioxolane)	Song, Yizhi	yizhi.song@unt.edu
+Polymerization Enhanced CRISPR-Cas12a Biosensors for Salmonella Detection	Amankwah Wilson, Grace	gamankwahwilson@aggies.ncat.edu
+PolyIC: Toward Systematic and Predictive Polymer Interaction Chromatography Development	Baker, Dillon	dtbaker@memphis.edu
+Data-driven spectroelectrochemical modeling of electrochromic polymers through hierarchical dataset and automated experimentation	Li, Yuanhe	liyuanhe@purdue.edu
+Designing Polymers with Molecular Weight Distribution-Based Machine Learning	Distasio, Robert	distasio@cornell.edu
+From generation to analysis: Structured flowsheet synthesis using LLM agents	Margareth, Margareth	margareth@kist.re.kr
+Exploring Transition Metal Complexes with Large Language Models	Head-Gordon, Teresa	thg@berkeley.edu
+AI-guided Autonomous Polymer Depolymerization	Saito, Tomonori	saitot@ornl.gov
+Machine learning–guided discovery of molecular absorbers for wavelength-selective optical clearing	Ou, Zihao	Zihao.Ou@UTDallas.edu
+SE(3)-Equivariant Efficient and Accurate Prediction of Electron Density Across Materials	Ghosh, Susanta	susantag@mtu.edu
+Design of Highly Loaded PEGylated Nanoparticles with Machine Learning	Reker, Daniel	daniel.reker@duke.edu
+Closing the loop on structure color: Bayesian optimization driven autonomous direct ink write of bottlebrush block copolymers	Lomas, Austin	jalomas99@gmail.com
+Polyfluorene synthesis reaction optimization with AI/ML	Shanta, Farhana Sultana	fshanta@vols.utk.edu
+AI and ML tools for 'medium data' from X-ray experiments	Butala, Megan	mbutala@ufl.edu
+Ultrafast Reactive Molecular Dynamics Simulations with AI-Informed Reaction Probabilities	Gissinger, Jacob	jgissing@stevens.edu
+Using text-mining, community knowledge, and generative modeling to quantify and engineer stability in MOFs	Nandy, Aditya	aditya.nandy@ucla.edu
