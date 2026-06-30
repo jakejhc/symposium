@@ -7,15 +7,15 @@ Sponsored by POLY and I&EC divisions of American Chemical Society
 <img width="960" height="540" alt="acs 26fall" src="https://github.com/user-attachments/assets/ed60d4d4-c969-4a12-94ef-c698c3476e1c" />
 
 
-#In Person Session 1--- Session Chairs: Naresh Osti, Weijian Hua, Jiayu Peng
+#In Person Session 1--- Session Chairs: Naresh Osti, Weijian Hua, Jiayu Peng, Panagiotis Christakopoulos
 <img width="960" height="540" alt="acs 26fall (2)" src="https://github.com/user-attachments/assets/485b0610-4ca5-4814-bd16-75e0989053c3" />
 
  
-#In Person Session 2--- Session Chairs: Serena Chen, Weijian Hua, Yuanwei Li 
+#In Person Session 2--- Session Chairs: Serena Chen, Weijian Hua, Yuanwei Li, Panagiotis Christakopoulos 
 <img width="960" height="540" alt="acs 26fall (3)" src="https://github.com/user-attachments/assets/01333e5f-e286-437d-9f63-bc19b762154f" />
 
  
-#In Person Session 3--- Session Chairs: Serena Chen, Naresh Osti, Nikita Sengar
+#In Person Session 3--- Session Chairs: Serena Chen, Naresh Osti, Nikita Sengar, Panagiotis Christakopoulos
 <img width="960" height="540" alt="acs 26fall (4)" src="https://github.com/user-attachments/assets/e0a68b08-d628-45a4-b92b-65a0f6bd5743" />
 
  
