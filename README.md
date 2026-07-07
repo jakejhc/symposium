@@ -1,4 +1,5 @@
 # <font color='green'> The 6th AI ACS Symposium
+## https://bit.ly/acs-ai
 ### [2026](https://www.acs.org/events/fall.html) Aug 24-25, Chicago &Virtual
 
 Sponsored by POLY and I&EC divisions of American Chemical Society
@@ -37,5 +38,5 @@ Sponsored by POLY and I&EC divisions of American Chemical Society
 # Poster Session
 <img width="960" height="540" alt="acs 26fall (5)" src="https://github.com/user-attachments/assets/7fe31893-d201-4577-bfcf-de9b99d1e53e" />
 
-
+## https://bit.ly/acs-ai
  
