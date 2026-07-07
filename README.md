@@ -39,6 +39,3 @@ Sponsored by POLY and I&EC divisions of American Chemical Society
 
 
  
-# Scan this QR code to access program (QR code also available on our mobile friendly site: https://bit.ly/m/aiacs)
-
-<img width="656" height="656" alt="image" src="https://github.com/user-attachments/assets/14564ae4-70bc-478b-b6b2-81b3c2b5e788" />
