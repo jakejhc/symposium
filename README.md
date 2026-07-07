@@ -1,4 +1,4 @@
-# <font color='green'> The 6th AI ACS Symposium（https://bit.ly/aiacs) 
+# <font color='green'> The 6th AI ACS Symposium
 ### [2026](https://www.acs.org/events/fall.html) Aug 24-25, Chicago &Virtual
 
 Sponsored by POLY and I&EC divisions of American Chemical Society
