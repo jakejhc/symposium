@@ -4,6 +4,7 @@
 Sponsored by POLY and I&EC divisions of American Chemical Society
 ![ai-banner](https://github.com/user-attachments/assets/eb20f117-5477-46d0-888d-78330932e663)
 
+# Session Overview (3 In-Person Sessions, 1 Digital Session, 1 Poster Session)
 <img width="960" height="540" alt="acs 26fall" src="https://github.com/user-attachments/assets/ed60d4d4-c969-4a12-94ef-c698c3476e1c" />
 
 
